@@ -1,0 +1,42 @@
+{
+  "name": "subtitle-converter",
+  "version": "0.1.0",
+  "description": "Convert subtitles from one format to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha tests/*.test.js --reporter spec",
+    "lint": "eslint ./lib/**/*.js ./tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccauli/subtitle-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccauli/subtitle-converter/issues"
+  },
+  "homepage": "https://github.com/mccauli/subtitle-converter#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.0",
+    "iconv-lite": "^0.4.24",
+    "isutf8": "^2.0.2",
+    "node-captions": "github:mccauli/node-captions",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "ramda": "^0.25.0",
+    "subtitles-parser": "0.0.2",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-chai-friendly": "^0.2.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
