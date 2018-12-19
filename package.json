@@ -24,12 +24,12 @@
     "iconv-lite": "^0.4.24",
     "isutf8": "^2.0.2",
     "node-captions": "github:mccauli/node-captions",
+    "node-webvtt": "^1.2.0",
     "os": "^0.1.1",
     "path": "^0.12.7",
     "ramda": "^0.25.0",
     "subtitles-parser": "0.0.2",
-    "xml2js": "^0.4.19",
-    "xml2json": "^0.11.2"
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "chai": "^4.1.1",
