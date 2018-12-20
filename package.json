@@ -23,6 +23,7 @@
     "encoding": "^0.1.12",
     "fs-extra": "^7.0.0",
     "isutf8": "^2.0.2",
+    "joi": "^14.3.0",
     "node-captions": "github:mccauli/node-captions",
     "node-webvtt": "^1.2.0",
     "os": "^0.1.1",
