@@ -2,11 +2,11 @@
 const parse = require('../lib/parsers/index');
 
 const subtitleFiles = [
-  '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_dfxp.dfxp',
-  '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_scc.scc',
+  // '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_dfxp.dfxp',
+  // '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_scc.scc',
   '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_srt.srt',
-  '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_ttml.ttml',
-  '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_vtt.vtt',
+  // '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_ttml.ttml',
+  // '/Users/ian/REPOSITORIES/janus/tests/test_subs/good_vtt.vtt',
 ];
 
 Promise.all(subtitleFiles.map(file => parse(file)))
