@@ -41,7 +41,7 @@ convert(inputFilePath, outputFilePath, options)
 **outputFps** (number) - Pass in the FPS desired for the output subtitle file. `sourceFps` is a required field in order to do FPS conversion.
 - For example: `25`, `23.976`, `29.97`
 
-**removeTextFormatting** (boolean) - Default is `false`. If set to `true`, tags such as `<b>` and `{bold}` will be striped from the text. This may be useful when converting to formats that do not support styling in this manner.
+**removeTextFormatting** (boolean) - Default is `false`. If set to `true`, tags such as `<b>` and `{bold}` will be stripped from the text. This may be useful when converting to formats that do not support styling in this manner.
 
 **timecodeOverlapLimiter** (number) - Default is `0`, allowing overlapping timecode. If a number (in seconds) is included `subtitle-converter` will automatically fix overlapping timecode if the amount of seconds the text overlaps is less than the `timecodeOverlapLimiter`.
 - If this value is set to `1` and your SRT looks like:
