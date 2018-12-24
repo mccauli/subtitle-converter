@@ -15,6 +15,7 @@ Promise.all(subtitleFiles.map(inputFile => convert(
   `/tmp/${path.basename(inputFile, path.extname(inputFile))}.srt`,
   {
     removeTextFormatting: true,
+    timecodeOverlapLimiter: 1,
     // shiftTimecode: 3,
     // sourceFps: 25,
     // outputFps: 23.976,
