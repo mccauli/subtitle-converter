@@ -2,11 +2,11 @@
 
 Convert and modify subtitle files with NodeJS.
 
-There are many subtitle tools written in node available, but there are none that support all popular subtitle and caption formats. `subtitle-converter` builds off of the work of others (most notably `node-captions`, `node-webvtt`, and `subtitles-parser`) in order to ultimately become the only subtitle module necessary to include in your node project.
+There are many subtitle tools written in node, but there are none that support all popular subtitle and caption formats. `subtitle-converter` builds off of the work of others (most notably `node-captions`, `node-webvtt`, and `subtitles-parser`) in order to ultimately become the only subtitle module necessary to include in your node project.
 
 Currently supported input file types: `dfxp, scc, srt, ttml, vtt`
 
-Currently supported output file types: `srt`
+Currently supported output file types: `srt, vtt`
 
 All output files are encoded with `UTF-8`. In the future we may support more encoding types.
 
