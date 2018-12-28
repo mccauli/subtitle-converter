@@ -16,7 +16,7 @@ TODO
 
 ## Usage
 
-```
+```javascript
 const convert = require('subtitle-converter');
 
 const inputFilePath = '/tmp/some-movie.scc';
