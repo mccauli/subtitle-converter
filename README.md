@@ -12,7 +12,7 @@ All output files are encoded with `UTF-8`. In the future we may support more enc
 
 ## Install
 
-TODO
+`npm install subtitle-converter`
 
 ## Usage
 
