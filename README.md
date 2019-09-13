@@ -16,18 +16,36 @@ All output files are encoded with `UTF-8`. In the future we may support more enc
 
 ## Usage
 
+NodeJS:
 ```javascript
+const fs = require('fs')
 const convert = require('subtitle-converter');
 
-const inputFilePath = '/tmp/some-movie.scc';
-const outputFilePath = '/tmp/some-movie.srt'; // conversion is based on output file extension
+const filepath = '/Users/test/Downloads/english_subtitle.srt';
+const subtitleText = fs.readFileSync(filepath, 'utf-8');
+const inputExtension = '.srt';
+const outputExtension = '.vtt'; // conversion is based on output file extension
 const options = {
   removeTextFormatting: true,
 };
 
-convert(inputFilePath, outputFilePath, options)
-  .then(outputFilepath => console.log(outputFilepath))
+convert(subtitleText, inputExtension, outputExtension, options)
+  .then(outputSubtitleText => console.log(outputSubtitleText))
   .catch(err => console.log(err));
+```
+
+Browser:
+```javascript
+function convertFile(fileObject) {
+  const reader = new FileReader();
+  let converted = '';
+  reader.readAsText(fileObject);
+  reader.onload = async () => {
+    const text = reader.result;
+    converted = await convert(text, '.srt', '.vtt');
+  };
+  return converted;
+}
 ```
 
 ## Options
