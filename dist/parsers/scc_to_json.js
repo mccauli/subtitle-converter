@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 /**
  * ***IMPORTANT***
@@ -6,11 +6,8 @@
  * We can't use that module because it uses fs,
  * and we want this module to be compatible with browsers as much as nodejs
  * */
-
 /* eslint-disable max-len */
-
 /* eslint-disable complexity */
-
 /* eslint-disable no-prototype-builtins */
 var mapping = {
   COMMANDS: {
@@ -851,14 +848,15 @@ var mapping = {
     '13bf': '┘'
   }
 };
+
 var SCC_HEADER = 'Scenarist_SCC V1.0';
 var SCC_HEADER_REGEX = new RegExp(SCC_HEADER);
 var SCC_REGEX_STRING = '([0-9:;]*)([\t]*)((.)*)';
 var SCC_REGEX = new RegExp(SCC_REGEX_STRING);
-var timeStamp;
+var timeStamp = void 0;
 var popBuffer = '';
-var popOn;
-var paintOn;
+var popOn = void 0;
+var paintOn = void 0;
 var paintBuffer = '';
 var commandBuffer = [];
 var paintTime = '';
@@ -866,8 +864,8 @@ var popTime = '';
 var paintOnCommands = ['9425', '9426', '94a7'];
 var rollUpRows = 0;
 var rollRows = [];
-var lastCommand;
-var frameCount;
+var lastCommand = void 0;
+var frameCount = void 0;
 var jsonCaptions = [];
 
 function makeCaptionBlock(buffer, startTimeMicro, frames) {
@@ -892,23 +890,19 @@ function rollUp(clearBuffer) {
   } else {
     rollRows.push(paintBuffer);
   }
-
   if (clearBuffer === true) {
     if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
       jsonCaptions[jsonCaptions.length - 1].endTimeMicro = paintTime;
     }
-
     paintBuffer = rollRows.join(' ');
     makeCaptionBlock(paintBuffer, paintTime, frameCount);
     paintBuffer = '';
     rollRows = [];
   }
-
   if (rollRows.length === rollUpRows) {
     if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
       jsonCaptions[jsonCaptions.length - 1].endTimeMicro = paintTime;
     }
-
     paintBuffer = rollRows.join(' ');
     makeCaptionBlock(paintBuffer, paintTime, frameCount);
     paintBuffer = '';
@@ -921,7 +915,6 @@ function doubleCommand(command) {
     lastCommand = '';
     return true;
   }
-
   lastCommand = command;
   return false;
 }
@@ -937,6 +930,7 @@ module.exports = {
     return SCC_HEADER_REGEX.test(header.trim());
   },
 
+
   /**
      * Converts the SCC file to a proprietary JSON format
      * @function
@@ -946,26 +940,21 @@ module.exports = {
   toJSON: function toJSON(lines, callback) {
     var idx = 0;
     jsonCaptions = [];
-
     for (idx = 0; idx < lines.length; idx += 1) {
       if (!module.exports.verify(lines[idx])) {
         module.exports.translateLine(lines[idx].toLowerCase());
       }
     }
-
     if (paintBuffer.length > 0) {
       rollUp(true);
     }
-
     if (!jsonCaptions[jsonCaptions.length - 1]) {
       callback('Failed to convert SCC data');
       return;
     }
-
     if (jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
       jsonCaptions[jsonCaptions.length - 1].endTimeMicro = jsonCaptions[jsonCaptions.length - 1].startTimeMicro;
     }
-
     callback(null, jsonCaptions);
   },
 
@@ -979,14 +968,12 @@ module.exports = {
     if (SCCLine.length === 0) {
       return;
     }
-
-    var wordIdx;
+    var wordIdx = void 0;
     var splitLine = SCCLine.match(SCC_REGEX);
-    var words = splitLine[3].split(' '); // eslint-disable-next-line prefer-destructuring
-
+    var words = splitLine[3].split(' ');
+    // eslint-disable-next-line prefer-destructuring
     timeStamp = splitLine[1];
     frameCount = 0;
-
     for (wordIdx = 0; wordIdx < words.length; wordIdx += 1) {
       commandBuffer.push(words[wordIdx]);
       module.exports.translateWord(words[wordIdx]);
@@ -994,32 +981,32 @@ module.exports = {
   },
   translateWord: function translateWord(word) {
     // add frame count
-    frameCount += 1; // first
-
+    frameCount += 1;
+    // first
     if (mapping.COMMANDS.hasOwnProperty(word)) {
-      module.exports.translateCommand(word); // second
+      module.exports.translateCommand(word);
+      // second
     } else if (mapping.SPECIAL_CHARS.hasOwnProperty(word)) {
-      module.exports.translateSpecialChars(word); // third
+      module.exports.translateSpecialChars(word);
+      // third
     } else if (mapping.EXTENDED_CHARS.hasOwnProperty(word)) {
-      module.exports.translateExtendedChars(word); // fourth
+      module.exports.translateExtendedChars(word);
+      // fourth
     }
-
     module.exports.translateCharacters(word);
   },
+
   translateCommand: function translateCommand(word) {
     var command = word;
-
     if (doubleCommand(command)) {
       return;
     }
-
     if (command === '9420') {
       popOn = true;
       paintOn = false;
     } else if (paintOnCommands.indexOf(command) > -1) {
       paintOn = true;
       popOn = false;
-
       if (command === '9429') {
         rollUpRows = 1;
       } else if (command === '9425') {
@@ -1035,19 +1022,18 @@ module.exports = {
         rollUp(true);
         paintBuffer = '';
       }
-
-      paintTime = module.exports.processTimeStamp(timeStamp, frameCount); // something with paint time..
+      paintTime = module.exports.processTimeStamp(timeStamp, frameCount);
+      // something with paint time..
     } else if (command === '94ae') {
-      popBuffer = ''; // clear pop buffer
+      popBuffer = '';
+      // clear pop buffer
     } else if (command === '942f' && popBuffer.length > 0) {
       // time
       // make caption
       popTime = module.exports.processTimeStamp(timeStamp, frameCount);
-
       if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
         jsonCaptions[jsonCaptions.length - 1].endTimeMicro = popTime;
       }
-
       makeCaptionBlock(popBuffer, popTime, frameCount);
       popBuffer = '';
     } else if (command === '94ad') {
@@ -1057,11 +1043,9 @@ module.exports = {
       }
     } else if (command === '942c') {
       rollRows = [];
-
       if (paintBuffer.length > 0) {
         rollUp(true);
       }
-
       if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
         jsonCaptions[jsonCaptions.length - 1].endTimeMicro = module.exports.processTimeStamp(timeStamp, frameCount);
       }
@@ -1075,7 +1059,6 @@ module.exports = {
     if (doubleCommand(word)) {
       return;
     }
-
     if (paintOn) {
       paintBuffer += mapping.SPECIAL_CHARS[word];
     } else {
@@ -1086,33 +1069,27 @@ module.exports = {
     if (doubleCommand(word)) {
       return;
     }
-
     if (paintOn) {
       if (paintBuffer.length > 0) {
         paintBuffer = paintBuffer.substring(0, paintBuffer.length - 1);
       }
-
       paintBuffer += mapping.EXTENDED_CHARS[word];
     } else {
       if (popBuffer.length > 0) {
         popBuffer = popBuffer.substring(0, popBuffer.length - 1);
       }
-
       popBuffer += mapping.EXTENDED_CHARS[word];
     }
   },
   translateCharacters: function translateCharacters(word) {
     if (word.length > 0) {
       var chars = word.match(/.{1,2}/gi);
-
       if (mapping.CHARACTERS[chars[0]] === undefined) {
         return;
       }
-
       if (mapping.CHARACTERS[chars[1]] === undefined) {
         return;
       }
-
       if (paintOn) {
         paintBuffer += mapping.CHARACTERS[chars[0]];
         paintBuffer += mapping.CHARACTERS[chars[1]];
@@ -1123,19 +1100,18 @@ module.exports = {
     }
   },
   processTimeStamp: function processTimeStamp(stampTime, frames) {
-    var newFrames;
+    var newFrames = void 0;
     var stamp = stampTime.replace(/;/g, ':').split(':');
     var stampFrames = parseInt(stamp[stamp.length - 1], 10);
-
     if (stampFrames + frames <= 9) {
-      newFrames = "0".concat(stampFrames + frames);
+      newFrames = '0' + (stampFrames + frames);
     } else {
       newFrames = stampFrames + frames;
     }
-
     stamp[stamp.length - 1] = newFrames;
     return module.exports.translateTime(stamp.join(':'));
   },
+
 
   /**
      * Converts SCC timestamps to microseconds

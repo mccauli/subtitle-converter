@@ -7,6 +7,7 @@
  * @param outputFps (integer or float) required
  * @returns shifted data
  */
+
 function shiftTimecodeByFps(data, sourceFps, outputFps) {
   var shiftAmount = sourceFps / outputFps;
   return data.map(function (line) {
