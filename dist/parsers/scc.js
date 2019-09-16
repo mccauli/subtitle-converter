@@ -12,6 +12,62 @@ var _require = require('../shared/constants'),
 var _require2 = require('../shared/utils'),
     cleanUpText = _require2.cleanUpText,
     fixTimecodeOverlap = _require2.fixTimecodeOverlap;
+
+var paintBuffer = '';
+var paintTime = '';
+var rollUpRows = 0;
+var rollRows = [];
+var frameCount;
+var jsonCaptions = [];
+var popOn;
+var paintOn;
+var commandBuffer = [];
+
+function makeCaptionBlock(buffer, startTimeMicro, frames) {
+  var cap = {
+    startTimeMicro: startTimeMicro,
+    endTimeMicro: undefined,
+    frames: frames,
+    popOn: popOn,
+    paintOn: paintOn,
+    rollUpRows: rollUpRows,
+    commands: commandBuffer.join(' '),
+    text: buffer
+  };
+  commandBuffer = [];
+  buffer = '';
+  jsonCaptions.push(cap);
+}
+
+function rollUp(clearBuffer) {
+  if (rollRows.length >= rollUpRows) {
+    rollRows.shift(); // if rows already filled, drop the top one
+  } else {
+    rollRows.push(paintBuffer);
+  }
+
+  if (clearBuffer === true) {
+    if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
+      jsonCaptions[jsonCaptions.length - 1].endTimeMicro = paintTime;
+    }
+
+    paintBuffer = rollRows.join(' ');
+    makeCaptionBlock(paintBuffer, paintTime, frameCount);
+    paintBuffer = '';
+    rollRows = [];
+  }
+
+  if (rollRows.length === rollUpRows) {
+    if (jsonCaptions[jsonCaptions.length - 1] !== undefined && jsonCaptions[jsonCaptions.length - 1].endTimeMicro === undefined) {
+      jsonCaptions[jsonCaptions.length - 1].endTimeMicro = paintTime;
+    }
+
+    paintBuffer = rollRows.join(' ');
+    makeCaptionBlock(paintBuffer, paintTime, frameCount);
+    paintBuffer = '';
+    rollRows = [];
+  }
+}
 /**
 * Converts the SCC file to a proprietary JSON format
 * @function
@@ -36,7 +92,7 @@ function _sccToJSON() {
             idx = 0;
             jsonCaptions = [];
 
-            for (idx = 0; idx < lines.length; idx++) {
+            for (idx = 0; idx < lines.length; idx += 1) {
               if (!module.exports.verify(lines[idx])) {
                 module.exports.translateLine(lines[idx].toLowerCase());
               }
@@ -70,8 +126,6 @@ function _sccToJSON() {
   }));
   return _sccToJSON.apply(this, arguments);
 }
-
-;
 
 function standardize(subtitleJSON, options) {
   var removeTextFormatting = options.removeTextFormatting,
