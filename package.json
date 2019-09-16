@@ -6,12 +6,15 @@
   "scripts": {
     "build": "babel lib -d dist",
     "lint": "eslint ./lib/**/*.js",
-    "lint:fix": "eslint ./lib/**/*.js --fix"
+    "lint:fix": "eslint ./lib/**/*.js --fix",
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mccauli/subtitle-converter.git"
   },
+  "files": [
+    "dist"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -35,5 +38,10 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0"
-  }
+  },
+  "pre-commit": [
+    "lint",
+    "test",
+    "build"
+  ]
 }
