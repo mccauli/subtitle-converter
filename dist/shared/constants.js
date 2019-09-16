@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 var Joi = require('joi-browser');
 
@@ -14,8 +14,8 @@ var SUBTITLE_SCHEMA = Joi.object().keys({
     endMicro: Joi.number().unit('microseconds'),
     captions: {
       frames: Joi.number().integer(),
-      popOn: Joi["boolean"](),
-      paintOn: Joi["boolean"](),
+      popOn: Joi.boolean(),
+      paintOn: Joi.boolean(),
       rollUpRows: Joi.number().integer(),
       commands: Joi.string()
     },
@@ -29,6 +29,7 @@ var SUBTITLE_SCHEMA = Joi.object().keys({
   })),
   source: Joi.any()
 });
+
 var PARAM_SCHEMA = Joi.object().keys({
   subtitleText: Joi.string().required(),
   inputExtension: Joi.string().required(),
@@ -37,10 +38,11 @@ var PARAM_SCHEMA = Joi.object().keys({
     shiftTimecode: Joi.number(),
     sourceFps: Joi.number(),
     outputFps: Joi.number(),
-    removeTextFormatting: Joi["boolean"](),
-    timecodeOverlapLimiter: Joi.alternatives()["try"](Joi.number().positive().allow(0), Joi["boolean"]())
+    removeTextFormatting: Joi.boolean(),
+    timecodeOverlapLimiter: Joi.alternatives().try(Joi.number().positive().allow(0), Joi.boolean())
   })
 });
+
 module.exports = {
   SUBTITLE_SCHEMA: SUBTITLE_SCHEMA,
   PARAM_SCHEMA: PARAM_SCHEMA

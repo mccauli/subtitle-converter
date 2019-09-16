@@ -1,8 +1,44 @@
-"use strict";
+'use strict';
 
-function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { Promise.resolve(value).then(_next, _throw); } }
+var dfxp = function () {
+  var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(subtitleText, options) {
+    var subtitleJSON, _Joi$validate, error, value;
 
-function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
+    return regeneratorRuntime.wrap(function _callee$(_context) {
+      while (1) {
+        switch (_context.prev = _context.next) {
+          case 0:
+            _context.next = 2;
+            return parseXml(subtitleText);
+
+          case 2:
+            subtitleJSON = _context.sent;
+            _Joi$validate = Joi.validate(standardize(subtitleJSON, options), SUBTITLE_SCHEMA), error = _Joi$validate.error, value = _Joi$validate.value;
+
+            if (!error) {
+              _context.next = 6;
+              break;
+            }
+
+            throw Error(error);
+
+          case 6:
+            return _context.abrupt('return', value);
+
+          case 7:
+          case 'end':
+            return _context.stop();
+        }
+      }
+    }, _callee, this);
+  }));
+
+  return function dfxp(_x, _x2) {
+    return _ref.apply(this, arguments);
+  };
+}();
+
+function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, arguments); return new Promise(function (resolve, reject) { function step(key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { return Promise.resolve(value).then(function (value) { step("next", value); }, function (err) { step("throw", err); }); } } return step("next"); }); }; }
 
 var util = require('util');
 
@@ -10,7 +46,6 @@ var _require = require('xml2js'),
     parseString = _require.parseString;
 
 var Joi = require('joi-browser');
-
 var R = require('ramda');
 
 var _require2 = require('../shared/constants'),
@@ -26,6 +61,7 @@ var parseXml = util.promisify(parseString);
 function standardize(subtitleJSON, options) {
   var removeTextFormatting = options.removeTextFormatting,
       timecodeOverlapLimiter = options.timecodeOverlapLimiter;
+
   var prevLine = '';
   var global = R.path(['tt', '$'], subtitleJSON);
   var body = R.path(['tt', 'body', '0', 'div', '0', 'p'], subtitleJSON);
@@ -51,47 +87,6 @@ function standardize(subtitleJSON, options) {
     }),
     source: subtitleJSON
   };
-}
-
-function dfxp(_x, _x2) {
-  return _dfxp.apply(this, arguments);
-}
-
-function _dfxp() {
-  _dfxp = _asyncToGenerator(
-  /*#__PURE__*/
-  regeneratorRuntime.mark(function _callee(subtitleText, options) {
-    var subtitleJSON, _Joi$validate, error, value;
-
-    return regeneratorRuntime.wrap(function _callee$(_context) {
-      while (1) {
-        switch (_context.prev = _context.next) {
-          case 0:
-            _context.next = 2;
-            return parseXml(subtitleText);
-
-          case 2:
-            subtitleJSON = _context.sent;
-            _Joi$validate = Joi.validate(standardize(subtitleJSON, options), SUBTITLE_SCHEMA), error = _Joi$validate.error, value = _Joi$validate.value;
-
-            if (!error) {
-              _context.next = 6;
-              break;
-            }
-
-            throw Error(error);
-
-          case 6:
-            return _context.abrupt("return", value);
-
-          case 7:
-          case "end":
-            return _context.stop();
-        }
-      }
-    }, _callee);
-  }));
-  return _dfxp.apply(this, arguments);
 }
 
 module.exports = dfxp;
