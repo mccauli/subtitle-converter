@@ -42,7 +42,6 @@
   },
   "pre-commit": [
     "lint",
-    "test",
     "build"
   ]
 }
