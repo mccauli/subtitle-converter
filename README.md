@@ -14,12 +14,12 @@ All output files are encoded with `UTF-8`. In the future we may support more enc
 
 `npm install subtitle-converter`
 
-## Usage
+## Convert
 
 NodeJS:
 ```javascript
 const fs = require('fs')
-const convert = require('subtitle-converter');
+const { convert } = require('subtitle-converter');
 
 const filepath = '/Users/test/Downloads/english_subtitle.srt';
 const subtitleText = fs.readFileSync(filepath, 'utf-8');
@@ -29,26 +29,33 @@ const options = {
   removeTextFormatting: true,
 };
 
-convert(subtitleText, inputExtension, outputExtension, options)
-  .then(outputSubtitleText => console.log(outputSubtitleText))
-  .catch(err => console.log(err));
+const { subtitle, status } = convert(subtitleText, inputExtension, outputExtension, options)
+
+if (status.success) console.log(subtitle);
+else console.log(status);
 ```
 
 Browser:
 ```javascript
+const { convert } = require('subtitle-converter');
+
 function convertFile(fileObject) {
   const reader = new FileReader();
   let converted = '';
   reader.readAsText(fileObject);
-  reader.onload = async () => {
+  reader.onload = () => {
     const text = reader.result;
-    converted = await convert(text, '.srt', '.vtt');
+    const { subtitle, status } = convert(text, '.srt', '.vtt');
+    if(status.success) converted = subtitle;
+    else console.log(status);
   };
   return converted;
 }
 ```
 
 ## Options
+
+**startAtZeroHour** (boolean) - Pass in `true` to make sure the timecodes start within
 
 **shiftTimecode** (number) - Pass in the amount of seconds to shift the timecode. If undefined the output timecode will match the input.
 - For example: `5`, `-5`, `5.2`
@@ -75,13 +82,67 @@ World
 - Then the output would become:
 ```
 1
-00:00:15,448 --> 00:00:17,417
+00:00:15,448 --> 00:00:18,000
 Hello
 
 2
-00:00:17,417 --> 00:00:19,252
+00:00:18,000 --> 00:00:19,252
 World
 ```
+
+## Validate
+
+Returns a `status` object with the following format.
+
+```javascript
+status = {
+  success: true/false,
+  startsAtZeroHour: true/false,
+  reversedTimecodes: [{id, timecode}],
+  overlappingTimecodes: [{id, timecode}],
+  formattedText: [{id, text}],
+  invalidEntries: [{id, timecode, text}],
+  invalidTimecodes: [{id, timecode}],
+}
+```
+
+Example:
+```javascript
+// Validate with defaults
+const { validate } = require('subtitle-converter');
+const status = validate(text, '.srt');
+
+console.log(status);
+
+// Validate with options
+const { validate } = require('subtitle-converter');
+const status = validate(text, '.srt', {
+    startsAtZeroHour: true,
+    overlappingTimecodes: true
+  });
+
+console.log(status.succes);
+```
+
+## Options
+
+**Please Note:** If no options are passed, all checks will take place.  If options are specified, only those checks that are set to `true` will take place.
+
+---
+**startsAtZeroHour** (boolean) - checking if the first timecode starts at hour zero.
+
+**reversedTimecodes** (boolean) - checking if there are any timecodes where the start time is after the end time.
+
+**overlappingTimecodes** (boolean) - checking if there are any timecodes where a start time occurs before the previous end time.
+
+**formattedText** (boolean) - checking if there is any formatted text. (`{an 1}`,`<i>This text is italicized</i>`).
+
+---
+**invalidEntries**  (Always detected) - checking if there are any odd entries or errors.
+
+**invalidTimecodes** (Always detected) [`.srt`] - checking if there are any timecodes that are not in a valid format.
+
+
 
 ## Contributing
 

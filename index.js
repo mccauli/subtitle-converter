@@ -1,3 +1,7 @@
 const convert = require('./lib/converters');
+const validate = require('./lib/validators');
 
-module.exports = convert;
+module.exports = {
+  convert,
+  validate,
+};
