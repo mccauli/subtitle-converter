@@ -1,6 +1,6 @@
 {
   "name": "subtitle-converter",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Convert subtitles from one format to another",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "chai": "^4.2.0",
     "joi-browser": "13.4.0",
     "mocha": "^6.2.1",
-    "node-webvtt": "^1.2.0",
+    "node-webvtt": "^1.7.0",
     "ramda": "^0.25.0",
     "subtitles-parser": "0.0.2",
     "xml2js": "^0.4.19"
