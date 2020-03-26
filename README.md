@@ -23,13 +23,12 @@ const { convert } = require('subtitle-converter');
 
 const filepath = '/Users/test/Downloads/english_subtitle.srt';
 const subtitleText = fs.readFileSync(filepath, 'utf-8');
-const inputExtension = '.srt';
 const outputExtension = '.vtt'; // conversion is based on output file extension
 const options = {
   removeTextFormatting: true,
 };
 
-const { subtitle, status } = convert(subtitleText, inputExtension, outputExtension, options)
+const { subtitle, status } = convert(subtitleText, outputExtension, options)
 
 if (status.success) console.log(subtitle);
 else console.log(status);
@@ -45,7 +44,7 @@ function convertFile(fileObject) {
   reader.readAsText(fileObject);
   reader.onload = () => {
     const text = reader.result;
-    const { subtitle, status } = convert(text, '.srt', '.vtt');
+    const { subtitle, status } = convert(text, '.vtt');
     if(status.success) converted = subtitle;
     else console.log(status);
   };
