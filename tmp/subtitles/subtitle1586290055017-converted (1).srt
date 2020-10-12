@@ -1,0 +1,2138 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.350 --> 00:03.280
+<v Announcer>Live from Wendy's apartment in New York,</v>
+
+2
+00:03.280 --> 00:05.961
+it's "The Wendy Williams Show at Home."
+
+3
+00:05.961 --> 00:08.680
+(upbeat music)
+
+4
+00:08.680 --> 00:11.966
+Now, here's Wendy!
+
+5
+00:11.966 --> 00:14.286
+(upbeat music)
+
+6
+00:14.286 --> 00:15.868
+<v ->How you doin?</v>
+
+7
+00:15.868 --> 00:18.118
+(laughing)
+
+8
+00:18.960 --> 00:19.890
+Hi.
+
+9
+00:19.890 --> 00:22.750
+So this is the way it's gonna be for quite some time,
+
+10
+00:22.750 --> 00:25.500
+so might as well just get used to this.
+
+11
+00:25.500 --> 00:27.680
+I'm in my apartment.
+
+12
+00:27.680 --> 00:30.190
+You're gonna get one angle which is the angle that you see.
+
+13
+00:30.190 --> 00:33.670
+There will be no virtual tours, no nothing.
+
+14
+00:33.670 --> 00:35.073
+This is all my stuff.
+
+15
+00:36.080 --> 00:37.663
+This is the mess that I am.
+
+16
+00:40.640 --> 00:42.140
+How are you?
+
+17
+00:42.140 --> 00:43.623
+How are you holding up?
+
+18
+00:45.020 --> 00:47.653
+Governor Andrew Cuomo can do no wrong to me.
+
+19
+00:48.600 --> 00:50.710
+I mean, he's easy on the eyes
+
+20
+00:50.710 --> 00:54.120
+and he explains things really, really simplistically.
+
+21
+00:54.120 --> 00:55.543
+I like him a whole lot.
+
+22
+00:56.520 --> 00:59.320
+Shout out to all the medical workers and the police and.
+
+23
+01:03.660 --> 01:05.100
+Norman.
+
+24
+01:05.100 --> 01:06.500
+Michael Lee's done it again.
+
+25
+01:07.471 --> 01:09.510
+(laughing)
+
+26
+01:09.510 --> 01:11.330
+Only reason why I'm not masking in the house
+
+27
+01:11.330 --> 01:12.820
+is because where am I supposed to get it
+
+28
+01:12.820 --> 01:15.140
+if I'm staying in the house?
+
+29
+01:15.140 --> 01:17.150
+I'm not going anywhere.
+
+30
+01:17.150 --> 01:18.120
+I mean, even right now,
+
+31
+01:18.120 --> 01:20.780
+is there anybody at your house right now?
+
+32
+01:20.780 --> 01:23.563
+<v ->No, it's just me flying solo.</v>
+
+33
+01:24.430 --> 01:26.670
+<v ->Well you're probably more technical than me.</v>
+
+34
+01:26.670 --> 01:28.093
+See Boof is here.
+
+35
+01:29.400 --> 01:32.610
+But he's way over there at the window.
+
+36
+01:32.610 --> 01:34.000
+Mm-hmm.
+
+37
+01:34.000 --> 01:35.220
+But he's gotta press all the buttons.
+
+38
+01:35.220 --> 01:36.560
+You know I don't know how to do this,
+
+39
+01:36.560 --> 01:38.390
+but I did wanna be here with you all
+
+40
+01:38.390 --> 01:40.780
+and I hope that everything is going well with you.
+
+41
+01:40.780 --> 01:44.170
+You know, it just seems like this is not gonna end
+
+42
+01:44.170 --> 01:46.160
+next weekend for Easter.
+
+43
+01:46.160 --> 01:48.910
+Those of you who attend services for Passover and Easter
+
+44
+01:48.910 --> 01:50.100
+and things like that,
+
+45
+01:50.100 --> 01:51.730
+why don't you get on the virtual?
+
+46
+01:51.730 --> 01:54.220
+Even my old parents are on the virtual.
+
+47
+01:54.220 --> 01:56.340
+The virtual church, the virtual temple,
+
+48
+01:56.340 --> 02:00.730
+the virtual synagogue, the virtual worship services.
+
+49
+02:00.730 --> 02:04.030
+They work for my parents held up in their apartment.
+
+50
+02:04.030 --> 02:05.583
+They're not going anywhere.
+
+51
+02:06.793 --> 02:07.860
+(sighing)
+
+52
+02:07.860 --> 02:11.060
+Anyway, we've got lots of notes and things like that.
+
+53
+02:11.060 --> 02:13.560
+Luenell is gonna come on.
+
+54
+02:13.560 --> 02:15.740
+We got "Ask Wendy" coming up.
+
+55
+02:15.740 --> 02:19.060
+The "Empire" season finale has been scrapped.
+
+56
+02:19.060 --> 02:23.290
+Well, I love "Empire" and I root for that show.
+
+57
+02:23.290 --> 02:25.163
+Excuse me, it's been canceled.
+
+58
+02:27.490 --> 02:29.090
+Right, Norman?
+
+59
+02:29.090 --> 02:29.950
+Not scrapped.
+
+60
+02:29.950 --> 02:32.780
+<v ->Right, they, because of the shut down,</v>
+
+61
+02:32.780 --> 02:35.060
+they had to cancel the last two episodes
+
+62
+02:35.060 --> 02:38.740
+so now after six seasons, we got no ending.
+
+63
+02:38.740 --> 02:41.910
+<v ->Well you are really invested in that show</v>
+
+64
+02:41.910 --> 02:44.280
+so you're the one who really feels like
+
+65
+02:44.280 --> 02:46.220
+you want something but, you know,
+
+66
+02:46.220 --> 02:49.640
+what are they supposed to do, Norman, to satisfy you?
+
+67
+02:49.640 --> 02:51.330
+Exactly.
+<v ->Maybe come back</v>
+
+68
+02:51.330 --> 02:53.680
+for a movie or something when all this is over.
+
+69
+02:55.230 --> 02:56.990
+<v ->I venture to say that a lot of people</v>
+
+70
+02:56.990 --> 03:01.420
+who think that greatness is with them right now,
+
+71
+03:01.420 --> 03:04.200
+when this is over people might've forgotten,
+
+72
+03:04.200 --> 03:06.400
+you know, moved on to something else.
+
+73
+03:06.400 --> 03:10.163
+So the last episode is happening on April 12th.
+
+74
+03:11.130 --> 03:13.450
+April 12th, oh, 21st.
+
+75
+03:13.450 --> 03:14.690
+Same difference.
+<v ->Yeah.</v>
+
+76
+03:14.690 --> 03:16.580
+<v ->You're swapping one for a two.</v>
+
+77
+03:16.580 --> 03:17.908
+<v ->Right.</v>
+
+78
+03:17.908 --> 03:19.350
+(laughing)
+
+79
+03:19.350 --> 03:21.390
+<v ->By the way, in case you hear some chirping</v>
+
+80
+03:21.390 --> 03:22.900
+during our broadcast,
+
+81
+03:22.900 --> 03:24.460
+just know that I've been dealing with
+
+82
+03:24.460 --> 03:29.310
+a broken smoke detector for the past one month.
+
+83
+03:29.310 --> 03:31.200
+And me and ChitChat and Myway
+
+84
+03:31.200 --> 03:33.130
+are so used to it we're desensitized.
+
+85
+03:33.130 --> 03:35.270
+Eventually, you will be too.
+
+86
+03:35.270 --> 03:38.190
+Your house probably has something broken too.
+
+87
+03:38.190 --> 03:42.470
+So Taraji P. Henson, by the way, back to "Empire,"
+
+88
+03:42.470 --> 03:46.690
+has postponed her wedding ceremony to her fiance
+
+89
+03:46.690 --> 03:49.220
+because they wanted to have a nice wedding.
+
+90
+03:49.220 --> 03:51.740
+His name was, what's his name?
+
+91
+03:51.740 --> 03:52.573
+Calvin?
+
+92
+03:53.580 --> 03:55.210
+Oh, Calvin.
+
+93
+03:55.210 --> 03:56.370
+Mm-hmm.
+
+94
+03:56.370 --> 03:57.835
+Good luck with your Calvin.
+
+95
+03:57.835 --> 04:00.040
+(laughing)
+
+96
+04:00.040 --> 04:00.943
+Just saying.
+
+97
+04:02.060 --> 04:04.530
+<v ->Right!</v>
+<v ->So NeNe is now</v>
+
+98
+04:04.530 --> 04:07.770
+singing rapping and I'm here for it.
+
+99
+04:07.770 --> 04:10.700
+NeNe, NeNe is so good.
+
+100
+04:10.700 --> 04:13.940
+I don't know who that is in the studio, oh, Lady Luck.
+
+101
+04:13.940 --> 04:16.830
+It's called "Come and Get This, Hunni,"
+
+102
+04:16.830 --> 04:20.220
+which, to me, the hook is everything.
+
+103
+04:20.220 --> 04:21.683
+How does the hook go again?
+
+104
+04:22.840 --> 04:23.716
+<v ->I can't sing it.</v>
+
+105
+04:23.716 --> 04:24.766
+I can't sing it here.
+
+106
+04:26.280 --> 04:27.530
+<v ->I don't remember it.</v>
+
+107
+04:27.530 --> 04:30.143
+All I know is that it's good.
+
+108
+04:31.090 --> 04:32.350
+And why not do it?
+
+109
+04:32.350 --> 04:34.470
+I mean, those housewives have to do something
+
+110
+04:34.470 --> 04:35.463
+to stay relevant.
+
+111
+04:36.392 --> 04:38.780
+There's gonna be no season finale
+
+112
+04:38.780 --> 04:40.840
+or no, what do you call that?
+
+113
+04:40.840 --> 04:42.270
+That reunion.
+
+114
+04:42.270 --> 04:44.506
+There's not gonna be a reunion.
+
+115
+04:44.506 --> 04:47.690
+<v ->Well it's gonna be filmed online.</v>
+
+116
+04:47.690 --> 04:50.180
+<v ->Like I said, there won't be a reunion.</v>
+
+117
+04:50.180 --> 04:53.160
+Nobody wants to see those girls in "Brandy Bunch" boxes.
+
+118
+04:53.160 --> 04:55.140
+We like to see them all together.
+
+119
+04:55.140 --> 04:58.140
+We like to see the full costume from ankle up
+
+120
+04:58.140 --> 05:00.660
+and I understand that's unrealistic
+
+121
+05:00.660 --> 05:02.290
+but there's some things that...
+
+122
+05:07.144 --> 05:09.426
+Norman's there for the fights so he says,
+
+123
+05:09.426 --> 05:12.817
+"Well, how's one gonna pull the other's hair
+
+124
+05:12.817 --> 05:14.480
+"if they're all at home."
+
+125
+05:14.480 --> 05:16.180
+And I say also, we won't be getting
+
+126
+05:16.180 --> 05:17.720
+the absolute truths from everybody
+
+127
+05:17.720 --> 05:19.330
+'cause you know how you get real strong
+
+128
+05:19.330 --> 05:22.483
+when you're sitting in a room by yourself.
+
+129
+05:24.158 --> 05:25.540
+(laughing)
+
+130
+05:25.540 --> 05:26.880
+No, but you get real strong
+
+131
+05:26.880 --> 05:28.160
+when you're sitting in a room by yourself.
+
+132
+05:28.160 --> 05:29.960
+And maybe your husband's over there,
+
+133
+05:30.800 --> 05:32.887
+giving you, "Yeah, yeah, get her more.
+
+134
+05:32.887 --> 05:34.280
+"Get her more, say more."
+
+135
+05:34.280 --> 05:35.330
+Or maybe your girlfriends,
+
+136
+05:35.330 --> 05:37.430
+maybe you have a little quarantini party,
+
+137
+05:37.430 --> 05:39.043
+all the way over there.
+
+138
+05:40.560 --> 05:43.193
+I just, I'm not here for it.
+
+139
+05:44.050 --> 05:44.883
+Norman?
+
+140
+05:46.920 --> 05:49.270
+I have to share something with you.
+
+141
+05:49.270 --> 05:50.490
+<v ->Okay.</v>
+
+142
+05:50.490 --> 05:52.913
+<v ->And all of my co-hosts.</v>
+
+143
+05:54.550 --> 05:57.720
+So on Friday evening, I was in the house
+
+144
+05:57.720 --> 05:58.920
+minding my own business
+
+145
+05:58.920 --> 06:01.270
+and the 10 o'clock news was on.
+
+146
+06:01.270 --> 06:03.230
+From 10 to 11 I watch the news
+
+147
+06:03.230 --> 06:05.750
+and then 11 o'clock, I change to "Seinfeld."
+
+148
+06:05.750 --> 06:06.583
+It's a routine.
+
+149
+06:07.420 --> 06:08.720
+I love it.
+
+150
+06:08.720 --> 06:11.927
+So my phone rings shortly after 10 o'clock.
+
+151
+06:11.927 --> 06:13.257
+"Wendy!"
+
+152
+06:14.840 --> 06:16.028
+It's NeNe.
+
+153
+06:16.028 --> 06:17.677
+(laughing)
+
+154
+06:17.677 --> 06:19.050
+"Wendy!"
+
+155
+06:19.050 --> 06:20.957
+I said, "Hi NeNe, why are you screaming?
+
+156
+06:20.957 --> 06:22.397
+"Why are we on speakerphone?
+
+157
+06:22.397 --> 06:23.797
+"Your house is big enough.
+
+158
+06:23.797 --> 06:26.170
+"We don't have to be on, what are you doing?"
+
+159
+06:26.170 --> 06:29.510
+So she said, "Wendy, I miss seeing you."
+
+160
+06:29.510 --> 06:31.800
+So she's like, "What you doing?"
+
+161
+06:31.800 --> 06:34.847
+I was like, "I'm watching the 10 o'clock news
+
+162
+06:34.847 --> 06:37.327
+"and then "Seinfeld" and then I'm gonna go to sleep
+
+163
+06:37.327 --> 06:38.827
+"and probably wake up at 3 o'clock in the morning
+
+164
+06:38.827 --> 06:40.270
+"and watch more TV."
+
+165
+06:40.270 --> 06:42.210
+She said, "Girl."
+
+166
+06:42.210 --> 06:43.607
+I said, "Yes, NeNe?
+
+167
+06:43.607 --> 06:45.410
+"Why are you talking so loud?"
+
+168
+06:45.410 --> 06:47.327
+She said, "I'm here with all my people.
+
+169
+06:47.327 --> 06:49.517
+"Everybody, tell Wendy hi."
+
+170
+06:51.380 --> 06:53.370
+I hear a bunch of, Norman,
+
+171
+06:53.370 --> 06:55.210
+I hear a bunch of people in the background,
+
+172
+06:55.210 --> 06:57.590
+how you doin-ing and hi-ing and stuff like that.
+
+173
+06:57.590 --> 07:00.640
+NeNe goes, "Let's get on Facetime."
+
+174
+07:00.640 --> 07:05.513
+Norman, now you know I don't have face or time for Facetime.
+
+175
+07:06.460 --> 07:07.330
+Period.
+
+176
+07:07.330 --> 07:09.930
+If I don't do it with my own parents or the show,
+
+177
+07:09.930 --> 07:12.720
+why would I be doing it for somebody over there?
+
+178
+07:12.720 --> 07:14.280
+You know, which, I like NeNe
+
+179
+07:14.280 --> 07:17.250
+but she's still an over there person to me.
+
+180
+07:17.250 --> 07:21.570
+And I felt, honestly, here's where the ambush comes in.
+
+181
+07:21.570 --> 07:24.970
+She said, "Wendy," she said, "Look."
+
+182
+07:24.970 --> 07:26.640
+She was in hair and makeup and wardrobe
+
+183
+07:26.640 --> 07:28.940
+with all her people, right?
+
+184
+07:28.940 --> 07:33.940
+She said, "We filming and I want you to be on the speaker."
+
+185
+07:34.380 --> 07:37.827
+I said, "NeNe, I did that for you one time.
+
+186
+07:37.827 --> 07:38.807
+"You asked me to.
+
+187
+07:38.807 --> 07:40.477
+"Remember my appearance, Norman?"
+
+188
+07:41.870 --> 07:43.080
+One time.
+
+189
+07:43.080 --> 07:47.720
+And I made it very clear, I am not a housewife.
+
+190
+07:47.720 --> 07:51.890
+Sorry, my career is a bit different
+
+191
+07:51.890 --> 07:53.480
+than being a housewife.
+
+192
+07:53.480 --> 07:56.120
+I don't need that kind of attention and,
+
+193
+07:56.120 --> 07:59.610
+quite frankly, and then I hung up on her.
+
+194
+07:59.610 --> 08:00.503
+I hung up.
+
+195
+08:01.580 --> 08:03.330
+I'm not here for this and I hung up.
+
+196
+08:03.330 --> 08:05.540
+She never called back and apologized.
+
+197
+08:05.540 --> 08:09.080
+No, no, no, 'cause here's protocol, right?
+
+198
+08:09.080 --> 08:11.130
+When you call somebody and you want them
+
+199
+08:11.130 --> 08:12.610
+to participate in something,
+
+200
+08:12.610 --> 08:17.037
+you call them off speaker in the other room first.
+
+201
+08:17.037 --> 08:19.767
+"Wendy, you know, I wanna record with you.
+
+202
+08:19.767 --> 08:21.060
+"Do you think you could?"
+
+203
+08:21.060 --> 08:24.170
+And I woulda still said, "No, NeNe, I am not a housewife."
+
+204
+08:24.170 --> 08:26.250
+Like I know I make this look easy
+
+205
+08:26.250 --> 08:28.230
+and I know I have my ratchet ways
+
+206
+08:28.230 --> 08:31.870
+but the fact is is that I worked 35 years of my life
+
+207
+08:31.870 --> 08:34.940
+to sit here for 11 seasons at this...
+
+208
+08:36.760 --> 08:39.610
+All right, look, look.
+
+209
+08:39.610 --> 08:42.420
+It's a full motion picture behind the scenes, okay?
+
+210
+08:42.420 --> 08:46.650
+I'm not slumming by being some add on
+
+211
+08:46.650 --> 08:49.000
+out of a suitcase for some housewives.
+
+212
+08:49.000 --> 08:51.883
+And yeah, for me, that is slumming.
+
+213
+08:52.800 --> 08:53.633
+Norman?
+
+214
+08:55.560 --> 08:57.830
+I mean, for where I am.
+
+215
+08:57.830 --> 09:01.350
+Norman, you see the day to day operation of our show.
+
+216
+09:01.350 --> 09:02.614
+<v ->Right.</v>
+
+217
+09:02.614 --> 09:03.623
+It's a whole thing.
+
+218
+09:05.420 --> 09:07.260
+<v ->So anyway, I hung up on her</v>
+
+219
+09:07.260 --> 09:09.550
+and she never called me ahead of time to ask me
+
+220
+09:09.550 --> 09:10.550
+and I woulda said no.
+
+221
+09:10.550 --> 09:13.960
+She never called after or even text to apologize
+
+222
+09:13.960 --> 09:15.510
+and I still haven't heard from her
+
+223
+09:15.510 --> 09:18.590
+and now here we are on Monday, that was Friday.
+
+224
+09:18.590 --> 09:20.083
+So you know what?
+
+225
+09:21.150 --> 09:24.363
+I would love to know what Wendy watchers this about this,
+
+226
+09:25.520 --> 09:26.880
+'cause as far as I'm concerned,
+
+227
+09:26.880 --> 09:28.570
+I don't wanna do anything.
+
+228
+09:28.570 --> 09:29.980
+If she's seeing it right now,
+
+229
+09:29.980 --> 09:33.190
+you better not use any of that footage, Bravo.
+
+230
+09:33.190 --> 09:35.070
+So Chuck D, right?
+
+231
+09:35.070 --> 09:37.453
+Well the April Fools joke is on you.
+
+232
+09:38.990 --> 09:41.840
+Chuck D says that kicking Flava Flav outta the group
+
+233
+09:41.840 --> 09:43.220
+was an April Fools joke.
+
+234
+09:43.220 --> 09:45.810
+He went on a radio show and talked about it
+
+235
+09:45.810 --> 09:47.333
+on actual April 1st.
+
+236
+09:48.610 --> 09:49.443
+You know what, Chuck?
+
+237
+09:49.443 --> 09:50.800
+You played yourself.
+
+238
+09:50.800 --> 09:52.690
+I don't believe for a moment 'cause you're not funny.
+
+239
+09:52.690 --> 09:54.240
+You don't have a funny bone.
+
+240
+09:54.240 --> 09:56.390
+Why are you even involved with April Fools?
+
+241
+09:57.522 --> 09:59.680
+And why weren't you in the house that day?
+
+242
+09:59.680 --> 10:02.353
+Why are you in a studio walking around?
+
+243
+10:03.560 --> 10:06.670
+So Chuck is 59 and Flava Flav is 60
+
+244
+10:06.670 --> 10:09.250
+and Flav didn't say anything for a moment
+
+245
+10:09.250 --> 10:13.000
+but Flav has finally come out and said it wasn't a joke.
+
+246
+10:13.000 --> 10:14.840
+I was fired from the group
+
+247
+10:14.840 --> 10:17.290
+and I don't have anything more to say about this.
+
+248
+10:17.290 --> 10:19.930
+This is Chuck trying to make this seem
+
+249
+10:19.930 --> 10:23.570
+like this is Flava Flav's fault and that this was a joke.
+
+250
+10:23.570 --> 10:25.220
+I believe you, Flav.
+
+251
+10:25.220 --> 10:27.200
+You know, it's a sad day, Chuck,
+
+252
+10:27.200 --> 10:30.480
+when Flava Flav is coming off in such a critical time
+
+253
+10:30.480 --> 10:33.250
+smarter than you, okay?
+
+254
+10:33.250 --> 10:36.070
+Number one and number two, I guess it was difficult
+
+255
+10:36.070 --> 10:40.350
+to just book Chuck D around the world, right?
+
+256
+10:40.350 --> 10:43.570
+First of all, nobody's booking but when they start booking,
+
+257
+10:43.570 --> 10:46.760
+you're not doing those songs without Flav up there.
+
+258
+10:46.760 --> 10:50.350
+Flav, on the other hand, I do see, Norman.
+
+259
+10:50.350 --> 10:53.170
+I do see where Flav, once the corona's off,
+
+260
+10:53.170 --> 10:55.320
+and he can actually travel, I can see
+
+261
+10:55.320 --> 10:58.560
+where Flav could make some money off just being Flava Flav.
+
+262
+10:58.560 --> 10:59.822
+<v ->Absolutely.</v>
+
+263
+10:59.822 --> 11:02.330
+<v ->'Cause everybody likes him.</v>
+
+264
+11:02.330 --> 11:05.890
+<v ->It's fun and it's nostalgic and it's great.</v>
+
+265
+11:05.890 --> 11:06.723
+<v ->Yeah.</v>
+
+266
+11:06.723 --> 11:07.556
+<v ->I would see him.</v>
+
+267
+11:07.556 --> 11:09.263
+Now Chuck D, on the other hand,
+
+268
+11:10.270 --> 11:11.913
+I gotta put my thinking cap on.
+
+269
+11:12.760 --> 11:13.780
+<v ->Right now everybody,</v>
+
+270
+11:13.780 --> 11:18.140
+I have to bring in my funny friend, Luenell.
+
+271
+11:18.140 --> 11:22.520
+Luenell, everyone has banned her daughter from her home
+
+272
+11:22.520 --> 11:24.850
+because the daughter was very disrespectful
+
+273
+11:24.850 --> 11:26.880
+of the coronavirus.
+
+274
+11:26.880 --> 11:31.653
+Now, when last I talked to Luenell, she was in the bathtub.
+
+275
+11:33.220 --> 11:34.828
+The visual of it all.
+
+276
+11:34.828 --> 11:35.890
+(laughing)
+
+277
+11:35.890 --> 11:38.950
+And so she's scrub-a-dub-dub
+
+278
+11:38.950 --> 11:43.260
+and somewhere relaxing in her apartment
+
+279
+11:43.260 --> 11:44.910
+that she shares with her husband.
+
+280
+11:45.810 --> 11:47.170
+Luenell, are you there?
+
+281
+11:47.170 --> 11:49.052
+How you doin?
+
+282
+11:49.052 --> 11:51.090
+<v ->How you doin, girl?</v>
+
+283
+11:51.090 --> 11:51.923
+(laughing)
+
+284
+11:51.923 --> 11:53.730
+<v ->Okay, the nails live on.</v>
+
+285
+11:53.730 --> 11:54.563
+Let me see.
+
+286
+11:54.563 --> 11:56.090
+Nail-Cam.
+
+287
+11:56.090 --> 11:57.203
+Fabulous.
+
+288
+11:59.390 --> 12:02.600
+<v ->You know the virus is taking over the world</v>
+
+289
+12:02.600 --> 12:04.250
+but if I get taken out,
+
+290
+12:04.250 --> 12:06.690
+I'm gonna be taken out with my nails, girl.
+
+291
+12:06.690 --> 12:07.740
+<v ->How's your husband?</v>
+
+292
+12:08.690 --> 12:11.973
+<v ->My husband is doing well, thank goodness.</v>
+
+293
+12:13.580 --> 12:15.330
+As I told you, he suffers from COPD
+
+294
+12:16.320 --> 12:20.660
+which is one of the reasons that I had to
+
+295
+12:21.760 --> 12:25.530
+take the steps that I had to do by quarantining,
+
+296
+12:25.530 --> 12:29.150
+not kicking out my daughter, from my home,
+
+297
+12:29.150 --> 12:34.140
+because of the fact that she has certain,
+
+298
+12:34.140 --> 12:36.540
+little small crews she been around
+
+299
+12:36.540 --> 12:39.030
+but I don't know where they've been.
+
+300
+12:39.030 --> 12:42.760
+So it wasn't, it was a heartbreaking decision
+
+301
+12:42.760 --> 12:44.000
+but it's what I had to do
+
+302
+12:44.000 --> 12:46.520
+for the health of myself and my husband.
+
+303
+12:46.520 --> 12:48.860
+If she still want her mama, go home.
+
+304
+12:48.860 --> 12:49.693
+She got a home.
+
+305
+12:50.540 --> 12:53.110
+<v ->So where is she staying now?</v>
+
+306
+12:53.110 --> 12:55.360
+<v ->Well now she's visiting her dad</v>
+
+307
+12:55.360 --> 13:00.060
+and she's quarantining with her father up in the Bay area.
+
+308
+13:00.060 --> 13:01.340
+But she has her own place.
+
+309
+13:01.340 --> 13:03.310
+She's been having her own place.
+
+310
+13:03.310 --> 13:05.860
+<v ->But why wasn't she quarantining to begin with, Luenell?</v>
+
+311
+13:05.860 --> 13:08.150
+This just happened the other day.
+
+312
+13:08.150 --> 13:11.980
+<v ->Yes, she did not, unfortunately,</v>
+
+313
+13:11.980 --> 13:15.690
+she did not make the decision to do the quarantine.
+
+314
+13:15.690 --> 13:19.340
+I did and that is sometimes the problem.
+
+315
+13:19.340 --> 13:22.560
+The kids don't make the decision to stay away
+
+316
+13:22.560 --> 13:24.960
+from Grandma and Grandpa.
+
+317
+13:24.960 --> 13:28.130
+We have to make it for them as sort of a tough love.
+
+318
+13:28.130 --> 13:30.750
+Now, if the roles were reversed
+
+319
+13:30.750 --> 13:34.650
+and if the kids were getting ill from things
+
+320
+13:34.650 --> 13:36.300
+that older people had,
+
+321
+13:36.300 --> 13:39.760
+we would do everything in our power to make sure
+
+322
+13:39.760 --> 13:42.110
+that we did not infect the kids.
+
+323
+13:42.110 --> 13:46.240
+They unfortunately have not, some of them,
+
+324
+13:46.240 --> 13:49.570
+are not making that decision in our best benefit.
+
+325
+13:49.570 --> 13:53.320
+So I took matters into my own hands and I locked the door.
+
+326
+13:53.320 --> 13:55.520
+<v ->Well you know I called you when I saw that.</v>
+
+327
+13:55.520 --> 13:58.384
+I texted you and said, "I applaud that."
+
+328
+13:58.384 --> 14:02.070
+Now this thing about no more hugging your fans.
+
+329
+14:02.070 --> 14:03.860
+Tell us about it.
+
+330
+14:03.860 --> 14:08.120
+<v ->Well, I normally do meet and greets</v>
+
+331
+14:08.120 --> 14:11.210
+and people catch me on the street and in restaurants
+
+332
+14:11.210 --> 14:13.660
+and I guess I got that auntie vibe
+
+333
+14:13.660 --> 14:17.020
+that everybody wants to hug me and stuff like that,
+
+334
+14:17.020 --> 14:21.570
+but if you come to my shows, there'll be no more of that.
+
+335
+14:21.570 --> 14:22.998
+There's no more meet and greet.
+
+336
+14:22.998 --> 14:26.100
+We might greet but we can't meet.
+
+337
+14:26.100 --> 14:29.080
+If you have a picture of me hugging on you,
+
+338
+14:29.080 --> 14:32.920
+kissing on you, licking on you, I've been guilty of that,
+
+339
+14:32.920 --> 14:36.840
+that is a collector's item 'cause don't touch me no more.
+
+340
+14:36.840 --> 14:40.390
+I already had allergies from cheap perfume
+
+341
+14:40.390 --> 14:42.433
+and cheap makeup where my eyes swell up.
+
+342
+14:43.490 --> 14:46.940
+I'm allergic to trap girls, you can say that.
+
+343
+14:46.940 --> 14:51.940
+But EpiPens are $600 for two.
+
+344
+14:52.120 --> 14:52.953
+So-
+<v ->Well-</v>
+
+345
+14:52.953 --> 14:54.450
+<v ->I can't, you know, we just can't.</v>
+
+346
+14:54.450 --> 14:55.820
+So it's over for me.
+
+347
+14:55.820 --> 14:57.150
+No more kissing.
+
+348
+14:57.150 --> 14:58.680
+No more hugging, that's it.
+
+349
+14:58.680 --> 15:00.210
+<v ->What do you think three years from now?</v>
+
+350
+15:00.210 --> 15:03.490
+Do you think you'll be back to it, 'cause I won't.
+
+351
+15:03.490 --> 15:04.700
+<v ->No!</v>
+
+352
+15:04.700 --> 15:05.871
+<v Wendy>Yeah.</v>
+
+353
+15:05.871 --> 15:08.290
+<v ->I'll be glad to not be, you know,</v>
+
+354
+15:08.290 --> 15:12.060
+or how sanitary is it to be kissed and hugged on
+
+355
+15:12.060 --> 15:14.900
+by 50 people during a show.
+
+356
+15:14.900 --> 15:18.690
+That's not even sanitary in a non-virus world
+
+357
+15:18.690 --> 15:20.470
+and you have always practiced that.
+
+358
+15:20.470 --> 15:22.750
+You give 'em the elbow or whatever like that.
+
+359
+15:22.750 --> 15:25.490
+But I'm not doing it anymore.
+
+360
+15:25.490 --> 15:26.450
+I can't.
+
+361
+15:26.450 --> 15:28.453
+<v ->So tell us about your YouTube show.</v>
+
+362
+15:29.990 --> 15:31.360
+<v ->The word is out.</v>
+
+363
+15:31.360 --> 15:32.403
+I thank you.
+
+364
+15:33.270 --> 15:37.220
+Since I've been quarantined, I wanted to find a way
+
+365
+15:37.220 --> 15:40.570
+to stay connected to my fans, you know?
+
+366
+15:40.570 --> 15:43.860
+Not just my old content but something new and fresh.
+
+367
+15:43.860 --> 15:45.750
+This is my set.
+
+368
+15:45.750 --> 15:47.870
+I broadcast from home.
+
+369
+15:47.870 --> 15:50.440
+My show is called "Hey Luenell,"
+
+370
+15:50.440 --> 15:53.210
+and it's on YouTube and you can,
+
+371
+15:53.210 --> 15:55.570
+if you follow me on Instagram @Luenell,
+
+372
+15:55.570 --> 15:59.720
+L-U-E-N-E-L-L, they can just click the link in the bio.
+
+373
+15:59.720 --> 16:03.100
+It takes you straight there and you can subscribe.
+
+374
+16:03.100 --> 16:07.830
+I go live every Wednesday at 3 pm California time.
+
+375
+16:07.830 --> 16:10.131
+We have lots of things we've been talking about.
+
+376
+16:10.131 --> 16:14.250
+This will be ebbing so far and I have a hot topic
+
+377
+16:14.250 --> 16:17.070
+to talk about myself this coming Wednesday
+
+378
+16:17.070 --> 16:19.270
+so just follow me and subscribe
+
+379
+16:19.270 --> 16:22.650
+and I'd be very glad to say hi to everybody.
+
+380
+16:22.650 --> 16:23.483
+<v ->Bye, Luenell!</v>
+
+381
+16:23.483 --> 16:24.340
+Thank you so much.
+
+382
+16:24.340 --> 16:25.726
+Stay safe.
+
+383
+16:25.726 --> 16:27.190
+<v ->Okay, bye bye.</v>
+
+384
+16:27.190 --> 16:28.660
+<v ->Okay, it's time...</v>
+
+385
+16:30.380 --> 16:32.620
+And you know what's weird, Norman?
+
+386
+16:32.620 --> 16:36.080
+People had said to me before, "Watch NeNe,"
+
+387
+16:36.080 --> 16:37.767
+and I was like, "No!
+
+388
+16:37.767 --> 16:39.107
+"Why?
+
+389
+16:39.107 --> 16:40.730
+"We're just two girls hanging out,"
+
+390
+16:40.730 --> 16:43.350
+but I'll tell you, I do feel ambushed.
+
+391
+16:43.350 --> 16:45.190
+Anyway, it is time for "Ask Wendy."
+
+392
+16:45.190 --> 16:46.047
+Let's go.
+
+393
+16:46.047 --> 16:48.630
+(upbeat music)
+
+394
+16:53.370 --> 16:55.310
+Oh, how you doin?
+
+395
+16:55.310 --> 16:57.150
+<v ->How you doin, Wendy?</v>
+
+396
+16:57.150 --> 16:58.170
+<v ->Fine, thank you.</v>
+
+397
+16:58.170 --> 17:00.490
+What's your name and where are you from?
+
+398
+17:00.490 --> 17:01.910
+<v ->Hi Wendy, I'm Alexandra.</v>
+
+399
+17:01.910 --> 17:03.433
+I'm from North City.
+
+400
+17:04.340 --> 17:05.750
+<v ->And what do you do?</v>
+
+401
+17:05.750 --> 17:07.870
+<v ->I'm actually a radio personality as well</v>
+
+402
+17:07.870 --> 17:10.230
+so you're one of my biggest inspirations.
+
+403
+17:10.230 --> 17:12.700
+Hopefully, I'm gonna emulate you.
+
+404
+17:12.700 --> 17:14.730
+<v ->Your breasts are probably bigger inspirations</v>
+
+405
+17:14.730 --> 17:16.550
+to a lot of people watching.
+
+406
+17:16.550 --> 17:18.590
+They're gigantic.
+<v ->I got the Wendy,</v>
+
+407
+17:18.590 --> 17:20.420
+the Wendy boobs too.
+
+408
+17:20.420 --> 17:22.467
+<v ->Oh, I don't think so.</v>
+
+409
+17:22.467 --> 17:23.340
+(laughing)
+
+410
+17:23.340 --> 17:25.720
+I feel like a first grader next to you.
+
+411
+17:25.720 --> 17:27.690
+So anyway, how can I help you?
+
+412
+17:27.690 --> 17:29.780
+<v ->Well Wendy, I really need help, girl.</v>
+
+413
+17:29.780 --> 17:32.450
+I just got engaged and I got engaged
+
+414
+17:32.450 --> 17:35.290
+to a very manly man, very macho man,
+
+415
+17:35.290 --> 17:37.450
+but when it comes to this wedding planning,
+
+416
+17:37.450 --> 17:40.450
+he has become a total Groomzilla.
+
+417
+17:40.450 --> 17:42.370
+I thought I was gonna be the Bridezilla.
+
+418
+17:42.370 --> 17:43.830
+He's planning our whole wedding.
+
+419
+17:43.830 --> 17:45.580
+He knows where we're gonna get married,
+
+420
+17:45.580 --> 17:47.530
+what the centerpieces are looking like.
+
+421
+17:47.530 --> 17:49.410
+He's already vetoed dresses, yes,
+
+422
+17:49.410 --> 17:51.230
+so all this won't be showing.
+
+423
+17:51.230 --> 17:53.070
+Wendy, what can I do to let him know
+
+424
+17:53.070 --> 17:55.243
+that this is my day, not his.
+
+425
+17:56.110 --> 17:58.980
+<v ->Have you talked to your mom about this yet?</v>
+
+426
+17:58.980 --> 18:02.404
+<v ->Well no, I haven't been able to talk to her about it</v>
+
+427
+18:02.404 --> 18:03.237
+too much.
+<v ->It's okay.</v>
+
+428
+18:03.237 --> 18:04.337
+<v ->She super-</v>
+<v ->How do you,</v>
+
+429
+18:04.337 --> 18:06.820
+how do you get along with his mother?
+
+430
+18:06.820 --> 18:08.570
+<v ->I get along with his mother well.</v>
+
+431
+18:10.410 --> 18:11.570
+<v ->I think this is a conversation</v>
+
+432
+18:11.570 --> 18:13.300
+that you need to have with your fiance.
+
+433
+18:13.300 --> 18:15.730
+By the way, congratulations on your engagement.
+
+434
+18:15.730 --> 18:16.563
+<v ->Thank you!</v>
+
+435
+18:16.563 --> 18:19.150
+<v ->This is probably not the time to be planning a wedding</v>
+
+436
+18:19.150 --> 18:22.293
+'cause the way he's going at it and you don't like it,
+
+437
+18:23.348 --> 18:26.300
+you might have to give back that engagement ring.
+
+438
+18:26.300 --> 18:30.330
+'Cause the divorce rate is up during this quarantining.
+
+439
+18:30.330 --> 18:35.330
+So you wanna avoid arguing about something like the wedding.
+
+440
+18:35.510 --> 18:37.680
+The biggest thing is that you all have each other's loves.
+
+441
+18:37.680 --> 18:39.410
+Why don't you get a virtual minister
+
+442
+18:39.410 --> 18:41.610
+and just get married at you all's apartment?
+
+443
+18:43.160 --> 18:44.700
+And then, well-
+
+444
+18:44.700 --> 18:46.171
+<v ->Will you marry us?</v>
+
+445
+18:46.171 --> 18:47.004
+(laughing)
+
+446
+18:47.004 --> 18:48.910
+<v ->No thank you, I don't wanna be involved.</v>
+
+447
+18:51.000 --> 18:52.550
+But here's the deal.
+
+448
+18:52.550 --> 18:54.530
+Get a virtual minister, get married,
+
+449
+18:54.530 --> 18:57.000
+wait until the winter or next spring
+
+450
+18:57.000 --> 18:59.760
+and then have a party for the friends and family
+
+451
+18:59.760 --> 19:03.190
+and that party, you and your husband will both be a part.
+
+452
+19:03.190 --> 19:05.410
+Quite frankly, I don't like men involved
+
+453
+19:05.410 --> 19:09.120
+in grown women's stuff and I always think of a wedding,
+
+454
+19:09.120 --> 19:10.890
+sorry for being traditional,
+
+455
+19:10.890 --> 19:15.483
+as more about what she wants than what he wants.
+
+456
+19:16.350 --> 19:18.570
+You know, as a matter of fact,
+
+457
+19:18.570 --> 19:19.990
+I'll go so far as to say,
+
+458
+19:19.990 --> 19:23.323
+he can choose the entire honeymoon situation.
+
+459
+19:24.240 --> 19:25.640
+You got it.
+
+460
+19:25.640 --> 19:28.810
+Pay for it, choose it, get us there,
+
+461
+19:28.810 --> 19:31.010
+but the wedding, my dress, the venue?
+
+462
+19:31.010 --> 19:31.940
+That's mine.
+
+463
+19:31.940 --> 19:33.077
+I wish you well.
+
+464
+19:33.077 --> 19:34.680
+<v ->Thank you so much, Wendy!</v>
+
+465
+19:34.680 --> 19:36.530
+Stay healthy, stay safe.
+
+466
+19:36.530 --> 19:37.363
+<v ->Thank you!</v>
+
+467
+19:37.363 --> 19:39.300
+We have one more "Ask Wendy."
+
+468
+19:39.300 --> 19:40.133
+how you doin?
+
+469
+19:41.040 --> 19:42.130
+<v ->How you doin, Wendy?</v>
+
+470
+19:42.130 --> 19:42.980
+My name is Linda.
+
+471
+19:43.970 --> 19:44.850
+<v ->Linda?</v>
+
+472
+19:44.850 --> 19:45.683
+<v ->Yes.</v>
+
+473
+19:45.683 --> 19:46.860
+<v ->Okay, where you from?</v>
+
+474
+19:46.860 --> 19:50.760
+<v ->I'm from Washington D.C., and basically what's going on is</v>
+
+475
+19:50.760 --> 19:52.640
+my boyfriend of three years,
+
+476
+19:52.640 --> 19:55.920
+he has crazy ex-girlfriends who have been harassing me
+
+477
+19:55.920 --> 19:57.900
+and trying to ruin my life.
+
+478
+19:57.900 --> 19:59.690
+They went as far as making multiple
+
+479
+19:59.690 --> 20:02.490
+fake profile accounts on Instagram,
+
+480
+20:02.490 --> 20:05.700
+they reached out to my clients talking negatively about me.
+
+481
+20:05.700 --> 20:07.700
+I have spoken to my boyfriend about it
+
+482
+20:07.700 --> 20:10.330
+and he's such a nice guy so him talking to them
+
+483
+20:10.330 --> 20:12.530
+didn't really do anything and it still continued.
+
+484
+20:12.530 --> 20:14.560
+So my question is, what should I do?
+
+485
+20:14.560 --> 20:17.713
+Should I check these women by myself or?
+
+486
+20:18.640 --> 20:19.900
+I don't know.
+
+487
+20:19.900 --> 20:21.610
+<v ->Well, what do you do for a living?</v>
+
+488
+20:21.610 --> 20:22.960
+<v ->I'm a makeup artist.</v>
+
+489
+20:22.960 --> 20:27.913
+<v ->Okay, so then having a public is paramount.</v>
+
+490
+20:30.020 --> 20:32.870
+First of all, I don't think that your ex
+
+491
+20:32.870 --> 20:35.480
+is going hard enough in his conversation with them.
+
+492
+20:35.480 --> 20:37.270
+You already said that he's a nice guy.
+
+493
+20:37.270 --> 20:39.000
+Maybe he's being too nice with them.
+
+494
+20:39.000 --> 20:43.260
+Although, if he's done it once and they haven't stopped,
+
+495
+20:43.260 --> 20:45.210
+'cause you know girls can be mean.
+
+496
+20:45.210 --> 20:47.330
+<v ->Very mean.</v>
+<v ->Any they can be jealous.</v>
+
+497
+20:47.330 --> 20:49.400
+You're the one who landed the prize
+
+498
+20:50.270 --> 20:52.770
+and they're all ganging up on you.
+
+499
+20:52.770 --> 20:55.290
+Well stop reading the comments, you know?
+
+500
+20:55.290 --> 20:57.640
+<v ->I do, I do block them but it gets hard</v>
+
+501
+20:57.640 --> 21:00.420
+because I do see it either way
+
+502
+21:00.420 --> 21:03.600
+but I do end up blocking it but it just keeps continuing.
+
+503
+21:03.600 --> 21:04.810
+<v ->There's nothing you can do</v>
+
+504
+21:04.810 --> 21:08.270
+and I do not suggest that you lower yourself
+
+505
+21:08.270 --> 21:10.560
+to their level and step to them.
+
+506
+21:10.560 --> 21:11.560
+Don't do it.
+
+507
+21:11.560 --> 21:12.400
+<v ->Okay.</v>
+
+508
+21:12.400 --> 21:13.233
+<v ->Don't do it.</v>
+
+509
+21:13.233 --> 21:14.640
+Just, you know, you're gonna have to deal
+
+510
+21:14.640 --> 21:16.900
+with the situations that's been created for you.
+
+511
+21:16.900 --> 21:19.860
+You're with this guy, they're jealous of that
+
+512
+21:19.860 --> 21:22.370
+and jealous of, maybe you have a successful
+
+513
+21:23.310 --> 21:27.040
+makeup situation going on there and they're jealous
+
+514
+21:27.040 --> 21:28.310
+and you can't stop that.
+
+515
+21:28.310 --> 21:30.040
+All you can do is rise.
+
+516
+21:30.040 --> 21:31.300
+<v ->Just live with it.</v>
+
+517
+21:31.300 --> 21:32.570
+<v ->Yup.</v>
+
+518
+21:32.570 --> 21:33.821
+Well thank you!
+
+519
+21:33.821 --> 21:34.930
+<v ->Thank you so much, Wendy.</v>
+
+520
+21:34.930 --> 21:35.930
+Stay safe!
+
+521
+21:35.930 --> 21:36.980
+Have a good one.
+
+522
+21:36.980 --> 21:38.400
+<v ->Thank you, you as well.</v>
+
+523
+21:38.400 --> 21:39.530
+<v ->All right, bye.</v>
+
+524
+21:39.530 --> 21:40.857
+<v ->Bye.</v>
+
+525
+21:40.857 --> 21:41.890
+(laughing)
+
+526
+21:41.890 --> 21:43.670
+I love these "Wendy at Homes."
+
+527
+21:43.670 --> 21:45.640
+I could get used to this,
+
+528
+21:45.640 --> 21:47.500
+until we can go back to the real show.
+
+529
+21:47.500 --> 21:49.400
+In the meantime everybody, up next,
+
+530
+21:49.400 --> 21:54.400
+an encore presentation of our show featuring Ja Rule.
+
+531
+21:54.570 --> 21:56.139
+Love you, be well.
+
+532
+21:56.139 --> 21:58.722
+(upbeat music)

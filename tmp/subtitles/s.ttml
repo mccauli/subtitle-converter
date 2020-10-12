@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>513146_English.ttml</ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="basic" tts:textAlign="center" />
+    </styling>
+  </head>
+  <body style="basic">
+    <div>
+      <p begin="00:00:09,532" end="00:00:10.932">To my parents,</p>
+      <p begin="00:00:11.065" end="00:00:13.065">who left everything.</p>
+      <p begin="00:01:32.566" end="00:01:37.499">Attachment</p>
+      <p begin="00:01:43.699" end="00:01:46.299">Chapter 1. Julia</p>
+      <p begin="00:02:03.599" end="00:02:08.099">Mom, now that Dad s<br />going to be here all day,</p>
+      <p begin="00:02:08.099" end="00:02:10.799">have you thought about doing something</p>
+      <p begin="00:02:10.799" end="00:02:13.099">Your Dad, here all day!</p>
+      <p begin="00:02:13.199" end="00:02:14.799">It could be fun.</p>
+      <p begin="00:02:16.099" end="00:02:20.099">You ve been wanting to remodel the back,</p>
+      <p begin="00:02:20.099" end="00:02:22.499">and Dad likes working with wood.</p>
+      <p begin="00:02:22.499" end="00:02:25.199">It could be a nice project.</p>
+      <p begin="00:02:26.766" end="00:02:28.366">Hurry up, honey.</p>
+      <p begin="00:02:28.366" end="00:02:30.733">Mom, we re talking here!</p>
+      <p begin="00:02:30.733" end="00:02:35.099">Whisky!</p>
+      <p begin="00:02:39.933" end="00:02:41.733">That one was good.</p>
+      <p begin="00:02:41.733" end="00:02:44.366">Let me see how it came out.</p>
+      <p begin="00:02:44.366" end="00:02:47.132">Let s take a look, we<br />have to approve first.</p>
+      <p begin="00:02:47.132" end="00:02:49.432">If I look bad I say no.</p>
+      <p begin="00:02:49.833" end="00:02:51.333">Allow me, boss.</p>
+      <p begin="00:02:51.566" end="00:02:52.666">Here it is.</p>
+      <p begin="00:02:52.933" end="00:02:53.833">See guys!</p>
+      <p begin="00:02:56.899" end="00:02:58.165">Excellent!</p>
+      <p begin="00:02:58.632" end="00:02:59.666">Pretty!</p>
+      <p begin="00:02:59.666" end="00:03:03.666">We can send it to the relatives in Chile.</p>
+      <p begin="00:03:03.666" end="00:03:04.866">Who is that?</p>
+      <p begin="00:03:06.132" end="00:03:07.432">I don t know.</p>
+      <p begin="00:03:07.733" end="00:03:09.033">Look closely,</p>
+      <p begin="00:03:09.966" end="00:03:11.266">your grandpa!</p>
+      <p begin="00:03:13.099" end="00:03:15.099">When he was younger.</p>
+      <p begin="00:03:15.099" end="00:03:18.866">He was doing a military training in Cuba.</p>
+      <p begin="00:03:18.866" end="00:03:20.866">So he was a soldier?</p>
+      <p begin="00:03:21.766" end="00:03:23.766">Something like that.</p>
+      <p begin="00:03:23.766" end="00:03:25.532">And were you a solider too?</p>
+      <p begin="00:03:25.532" end="00:03:26.199">No!</p>
+      <p begin="00:03:26.732" end="00:03:31.732">No, honey, I hate war,<br />because the only thing it does</p>
+      <p begin="00:03:32.032" end="00:03:34.132">is separate families.</p>
+      <p begin="00:03:35.666" end="00:03:38.966">Could you help me write a letter?</p>
+      <p begin="00:03:38.966" end="00:03:39.899">Yes.</p>
+      <p begin="00:03:39.899" end="00:03:41.933">To who?</p>
+      <p begin="00:03:41.933" end="00:03:42.933">To my dad.</p>
+      <p begin="00:03:48.799" end="00:03:49.966">Bye!</p>
+      <p begin="00:03:49.966" end="00:03:51.833">You re gonna get it now!</p>
+      <p begin="00:03:51.833" end="00:03:54.133">The underwear is crazy!</p>
+      <p begin="00:03:54.966" end="00:03:56.966">Kids, we re leaving.</p>
+      <p begin="00:03:56.966" end="00:03:57.632">No!</p>
+      <p begin="00:03:57.732" end="00:03:59.632">What are you doing?</p>
+      <p begin="00:03:59.632" end="00:04:00.432">Nothing.</p>
+      <p begin="00:04:00.966" end="00:04:02.265">What a mess!</p>
+      <p begin="00:04:02.799" end="00:04:03.299">None.</p>
+      <p begin="00:04:03.299" end="00:04:05.399">Get going, they re waiting for you.</p>
+      <p begin="00:04:05.399" end="00:04:06.265">No, mom!</p>
+      <p begin="00:04:06.833" end="00:04:07.833">Get going.</p>
+      <p begin="00:04:07.833" end="00:04:09.299">They re waiting for you.</p>
+      <p begin="00:04:09.299" end="00:04:12.099">Don t run, help Cami please.</p>
+      <p begin="00:04:54.132" end="00:04:56.432">Claudia has me worried.</p>
+      <p begin="00:04:57.199" end="00:04:59.299">She seems really sad.</p>
+      <p begin="00:05:08.065" end="00:05:09.965">I m talking to you.</p>
+      <p begin="00:05:10.232" end="00:05:11.132">Yes, yes.</p>
+      <p begin="00:07:46.499" end="00:07:47.132">Hello?</p>
+      <p begin="00:07:49.032" end="00:07:52.332">Good morning, honey, how are you?</p>
+      <p begin="00:07:52.566" end="00:07:56.866">Your daughter opened<br />a Facebook page for me</p>
+      <p begin="00:07:56.866" end="00:08:00.466">and I don t know what to do with it.</p>
+      <p begin="00:08:01.933" end="00:08:05.733">Well you re supposed to post pictures,</p>
+      <p begin="00:08:05.733" end="00:08:09.233">write something for people to read.</p>
+      <p begin="00:08:10.733" end="00:08:12.232">What for?</p>
+      <p begin="00:08:12.232" end="00:08:15.032">What people? There s no one here.</p>
+      <p begin="00:08:15.032" end="00:08:17.932">This is too darn complicated.</p>
+      <p begin="00:08:17.932" end="00:08:21.666">If you don t like it<br />close it and that s that.</p>
+      <p begin="00:08:21.666" end="00:08:23.266">How nice of you!</p>
+      <p begin="00:08:23.266" end="00:08:27.432">Is it that hard for you<br />to help me understand it?</p>
+      <p begin="00:08:27.432" end="00:08:29.532">Go to the search bar.</p>
+      <p begin="00:08:30.265" end="00:08:31.865">What search bar?</p>
+      <p begin="00:08:31.865" end="00:08:35.199">The little magnifying glass at the top.</p>
+      <p begin="00:08:35.199" end="00:08:37.065">At the top of the page</p>
+      <p begin="00:08:37.065" end="00:08:38.566">Ok, got it, the little one.</p>
+      <p begin="00:08:38.566" end="00:08:39.132">Yes.</p>
+      <p begin="00:08:39.532" end="00:08:41.999">OK</p>
+      <p begin="00:08:41.999" end="00:08:44.199">You write the name of the person<br />you want to look for there,</p>
+      <p begin="00:08:44.199" end="00:08:47.099">press enter, and it shows up.</p>
+      <p begin="00:08:47.099" end="00:08:49.165">I m going to put yours.</p>
+      <p begin="00:08:49.165" end="00:08:51.465">No, Mom, not mine. Why?</p>
+      <p begin="00:08:51.465" end="00:08:55.499">We see each other every day, you<br />re going to spy on me there too?</p>
+      <p begin="00:08:55.499" end="00:08:58.866">I don t know why I waste<br />my time with you Ana,</p>
+      <p begin="00:08:58.866" end="00:09:01.866">now I understand your husband.</p>
+      <p begin="00:09:01.933" end="00:09:02.833">Mom, hey!</p>
+      <p begin="00:09:03.432" end="00:09:04.099">Mom!</p>
+      <p begin="00:09:41.432" end="00:09:42.065">Hello?</p>
+      <p begin="00:09:44.899" end="00:09:46.432">OK, I m coming.</p>
+      <p begin="00:09:56.632" end="00:10:01.632">We ve just been hired to<br />develop a beach hotel in Mexico</p>
+      <p begin="00:10:02.232" end="00:10:03.532">in Los Cabos.</p>
+      <p begin="00:10:03.565" end="00:10:08.565">So you and Fernández, are each<br />going to present a project</p>
+      <p begin="00:10:09.265" end="00:10:12.499">and the one the client likes best goes.</p>
+      <p begin="00:10:12.499" end="00:10:16.199">This is a big deal that can help<br />us on an international level.</p>
+      <p begin="00:10:16.199" end="00:10:17.199">Of course.</p>
+      <p begin="00:10:17.199" end="00:10:20.299">I m counting on you and I<br />want something extraordinary.</p>
+      <p begin="00:10:20.299" end="00:10:21.599">Nothing less,</p>
+      <p begin="00:10:21.933" end="00:10:22.966">OK</p>
+      <p begin="00:10:22.966" end="00:10:24.066">Understood?</p>
+      <p begin="00:10:30.165" end="00:10:31.165">High five!</p>
+      <p begin="00:10:35.032" end="00:10:38.132">Where should we send the plane?</p>
+      <p begin="00:10:38.132" end="00:10:39.032">Let s see</p>
+      <p begin="00:10:45.099" end="00:10:47.299">Oh God, that can t be.</p>
+      <p begin="00:10:47.299" end="00:10:48.999">Why do I look so old?</p>
+      <p begin="00:10:48.999" end="00:10:52.165">Why so close up!</p>
+      <p begin="00:10:52.733" end="00:10:54.766">How awful!</p>
+      <p begin="00:10:54.766" end="00:10:59.065">Let s try it without glasses,<br />maybe it will come out better.</p>
+      <p begin="00:10:59.065" end="00:11:01.232">Don t be so cruel, find a good angle.</p>
+      <p begin="00:11:01.232" end="00:11:03.732">I took it with affection!</p>
+      <p begin="00:11:05.232" end="00:11:07.032">How about a smile?</p>
+      <p begin="00:11:12.599" end="00:11:16.199">Look at my cheeks, I look like Kiko.</p>
+      <p begin="00:11:16.199" end="00:11:18.099">This one is pretty.</p>
+      <p begin="00:11:18.699" end="00:11:20.999">Let me see... I like it</p>
+      <p begin="00:11:21.466" end="00:11:24.866">Yes, I like it! It s not that bad.</p>
+      <p begin="00:11:24.866" end="00:11:26.065">It s pretty!</p>
+      <p begin="00:11:26.065" end="00:11:26.965">This one?</p>
+      <p begin="00:11:26.965" end="00:11:27.866">Are you going to put it up now?</p>
+      <p begin="00:11:27.866" end="00:11:28.532">Yes.</p>
+      <p begin="00:11:31.333" end="00:11:33.833">Does it take a long time?</p>
+      <p begin="00:11:33.833" end="00:11:38.333">No, it s really fast,<br />even Claudia can do it.</p>
+      <p begin="00:11:39.332" end="00:11:42.632">She showed me, she made the page.</p>
+      <p begin="00:11:42.666" end="00:11:44.166">She s so smart.</p>
+      <p begin="00:11:44.166" end="00:11:47.265">Kids these days, it s incredible.</p>
+      <p begin="00:11:47.265" end="00:11:49.565">They learn really fast.</p>
+      <p begin="00:11:51.632" end="00:11:52.832">Speaking of,</p>
+      <p begin="00:11:52.832" end="00:11:56.099">have you noticed that Claudia s been sad?</p>
+      <p begin="00:11:56.099" end="00:11:56.999">Sad, why?</p>
+      <p begin="00:11:58.099" end="00:11:59.399">I don t know.</p>
+      <p begin="00:11:59.399" end="00:12:01.432">She seems sad lately.</p>
+      <p begin="00:12:01.432" end="00:12:04.733">I think she should see her father more.</p>
+      <p begin="00:12:04.733" end="00:12:06.233">Enough already.</p>
+      <p begin="00:12:06.233" end="00:12:08.232">Your daughters need to<br />be with their dad more.</p>
+      <p begin="00:12:08.232" end="00:12:09.832">They need a dad.</p>
+      <p begin="00:12:09.832" end="00:12:10.966">What s the password?</p>
+      <p begin="00:12:10.966" end="00:12:12.000">What password?</p>
+      <p begin="00:12:12.000" end="00:12:13.300">For Facebook.</p>
+      <p begin="00:12:14.299" end="00:12:15.699">Concepción 68.</p>
+      <p begin="00:12:18.332" end="00:12:20.632">Ana, I m being serious,</p>
+      <p begin="00:12:21.165" end="00:12:23.765">they need a father figure.</p>
+      <p begin="00:12:23.765" end="00:12:26.833">Aren t you going to say anything?</p>
+      <p begin="00:12:26.833" end="00:12:27.633">No, Mom.</p>
+      <p begin="00:12:34.065" end="00:12:34.965">Only one!</p>
+      <p begin="00:12:38.332" end="00:12:42.332">Simon says throw Camila in the fountain.</p>
+      <p begin="00:12:45.699" end="00:12:47.265">Let s go!</p>
+      <p begin="00:12:49.999" end="00:12:51.599">To the fountain!</p>
+      <p begin="00:12:53.532" end="00:12:57.232">I found a bunch of childhood friends.</p>
+      <p begin="00:12:57.232" end="00:13:01.699">I ve been chatting with an old<br />college friend all week, Ernesto.</p>
+      <p begin="00:13:01.699" end="00:13:02.999">What does he do?</p>
+      <p begin="00:13:02.999" end="00:13:04.165">Pass me the bread.</p>
+      <p begin="00:13:04.165" end="00:13:05.232">He owns hotels in La Serena.</p>
+      <p begin="00:13:05.232" end="00:13:07.332">In La Serena? Hotels?</p>
+      <p begin="00:13:08.199" end="00:13:13.199">He must be one of your snob<br />friends, probably pro-Pinochet.</p>
+      <p begin="00:13:14.099" end="00:13:18.566">Adri and me want to go to<br />Chile, we want to take the kids.</p>
+      <p begin="00:13:18.566" end="00:13:22.933">Yes. Yesterday we were watching<br />a report about Torres del Paine</p>
+      <p begin="00:13:22.933" end="00:13:26.032">You know what the problem is<br />things aren t like they used to be,</p>
+      <p begin="00:13:26.032" end="00:13:30.932">Chile is full of snobs<br />now, living the high life.</p>
+      <p begin="00:13:31.299" end="00:13:34.399">All that sacrifice for nothing.</p>
+      <p begin="00:13:34.766" end="00:13:38.566">Right, all that sacrifice for nothing.</p>
+      <p begin="00:13:38.566" end="00:13:40.366">What do you mean for nothing?</p>
+      <p begin="00:13:40.366" end="00:13:42.566">What s wrong with living well.</p>
+      <p begin="00:13:42.566" end="00:13:44.866">There s nothing wrong with living well.</p>
+      <p begin="00:13:44.866" end="00:13:48.532">What s wrong is living well at<br />the expense of everyone else.</p>
+      <p begin="00:13:48.532" end="00:13:52.165">All your friends got rich at<br />the expense of everyone else.</p>
+      <p begin="00:13:52.165" end="00:13:54.332">And in those cases, you<br />bring the housekeeper</p>
+      <p begin="00:13:54.332" end="00:13:56.699">to live here and pay her better.</p>
+      <p begin="00:13:56.699" end="00:13:58.766">So how is your friend?</p>
+      <p begin="00:13:58.766" end="00:14:00.866">Ernesto is very well.</p>
+      <p begin="00:14:01.199" end="00:14:05.299">He invited me to go there for a few days.</p>
+      <p begin="00:14:05.299" end="00:14:08.132">That s a good idea, we were talking about</p>
+      <p begin="00:14:08.132" end="00:14:10.566">going together, all of us.</p>
+      <p begin="00:14:10.566" end="00:14:13.299">We can take our vacation days,</p>
+      <p begin="00:14:13.299" end="00:14:15.165">take the kids and all go together.</p>
+      <p begin="00:14:15.165" end="00:14:17.265">Claudia is dying to go.</p>
+      <p begin="00:14:17.265" end="00:14:19.733">Fabio has never been on a<br />plane, it would be so nice.</p>
+      <p begin="00:14:19.733" end="00:14:21.232">I m going alone</p>
+      <p begin="00:14:21.232" end="00:14:24.332">The Atacama Desert is the best.</p>
+      <p begin="00:14:25.065" end="00:14:26.665">I m going alone!</p>
+      <p begin="00:14:27.799" end="00:14:29.399">I m going alone!</p>
+      <p begin="00:14:31.232" end="00:14:33.632">What do you mean, alone?</p>
+      <p begin="00:14:33.632" end="00:14:36.933">You ve always said you don<br />t like to travel alone.</p>
+      <p begin="00:14:36.933" end="00:14:37.833">Now I do.</p>
+      <p begin="00:14:38.866" end="00:14:42.366">Isn t it a little weird to go alone</p>
+      <p begin="00:14:42.366" end="00:14:44.366">to see a guy you don t even know?</p>
+      <p begin="00:14:44.366" end="00:14:45.966">The Opus Dei has spoken.</p>
+      <p begin="00:14:45.966" end="00:14:47.232">What s that supposed to mean?</p>
+      <p begin="00:14:47.232" end="00:14:48.899">She wants to go alone.</p>
+      <p begin="00:14:48.899" end="00:14:51.532">But we re family, we can<br />make the decision together.</p>
+      <p begin="00:14:51.532" end="00:14:53.632">It s not our decision, it s hers.</p>
+      <p begin="00:14:53.632" end="00:14:55.899">I think it s something<br />that affects us all.</p>
+      <p begin="00:14:55.899" end="00:14:59.099">We have to make a plan together.</p>
+      <p begin="00:15:57.133" end="00:15:59.933">This one looks great on you.</p>
+      <p begin="00:15:59.933" end="00:16:01.133">You like it?</p>
+      <p begin="00:16:01.133" end="00:16:02.666">It s not too wide?</p>
+      <p begin="00:16:02.666" end="00:16:04.166">It looks great.</p>
+      <p begin="00:16:04.166" end="00:16:06.265">It doesn t make my hips look big?</p>
+      <p begin="00:16:06.265" end="00:16:09.799">Look at your face, you<br />look fresh, younger.</p>
+      <p begin="00:16:09.799" end="00:16:11.933">That s so sweet, honey.</p>
+      <p begin="00:16:11.933" end="00:16:13.933">I m going to get it.</p>
+      <p begin="00:16:14.032" end="00:16:15.232">Yes, get it.</p>
+      <p begin="00:16:18.466" end="00:16:23.466">So, they offered to send me to<br />Mexico to develop a project.</p>
+      <p begin="00:16:24.432" end="00:16:28.632">It s a competition, it s not for sure yet.</p>
+      <p begin="00:16:28.632" end="00:16:30.666">Are you listening to me?</p>
+      <p begin="00:16:30.666" end="00:16:31.332">Yes.</p>
+      <p begin="00:16:33.032" end="00:16:36.732">And what would you do with the girls?</p>
+      <p begin="00:16:36.732" end="00:16:39.766">You re going to take them<br />away from their family,</p>
+      <p begin="00:16:39.766" end="00:16:43.399">take them out of school<br />in the middle of the year,</p>
+      <p begin="00:16:43.399" end="00:16:44.966">with all of the support they have?</p>
+      <p begin="00:16:44.966" end="00:16:46.466">I don t know, mom.</p>
+      <p begin="00:16:46.466" end="00:16:49.766">I haven t thought about that yet.</p>
+      <p begin="00:16:49.766" end="00:16:52.132">I gave up everything for<br />you guys and your father.</p>
+      <p begin="00:16:52.132" end="00:16:53.232">Everything.</p>
+      <p begin="00:16:53.232" end="00:16:56.032">You came here because you wanted to,</p>
+      <p begin="00:16:56.032" end="00:16:58.132">nobody forced you to.</p>
+      <p begin="00:16:59.332" end="00:17:02.332">Is that really what you think?</p>
+      <p begin="00:17:02.399" end="00:17:05.799">That I wanted to leave my country,</p>
+      <p begin="00:17:05.799" end="00:17:07.999">my family, my friends,</p>
+      <p begin="00:17:08.899" end="00:17:09.799">my job,</p>
+      <p begin="00:17:11.833" end="00:17:12.766">my life?</p>
+      <p begin="00:17:15.132" end="00:17:18.632">Is that really what you think, Ana?</p>
+      <p begin="00:17:18.632" end="00:17:21.566">I brought you some more in your size.</p>
+      <p begin="00:17:21.566" end="00:17:22.265">Thank you.</p>
+      <p begin="00:17:22.265" end="00:17:23.765">You re welcome.</p>
+      <p begin="00:17:24.299" end="00:17:27.899">I ll take them to the dressing room.</p>
+      <p begin="00:18:02.800" end="00:18:07.800">What this shows is knowledge,<br />a way of doing things,</p>
+      <p begin="00:18:08.000" end="00:18:09.966">the skills of our trade.</p>
+      <p begin="00:18:09.966" end="00:18:11.599">I understand, César.</p>
+      <p begin="00:18:11.599" end="00:18:13.532">I understand your proposal completely.</p>
+      <p begin="00:18:13.532" end="00:18:16.499">What I m worried about is<br />the economic side of it,</p>
+      <p begin="00:18:16.499" end="00:18:19.065">because our image is at stake</p>
+      <p begin="00:18:19.065" end="00:18:21.565">Dad: Your mom has a lover</p>
+      <p begin="00:18:21.565" end="00:18:25.666">and I don t want it to<br />end up being too simple.</p>
+      <p begin="00:18:25.666" end="00:18:27.266">Ana, are you OK?</p>
+      <p begin="00:18:27.266" end="00:18:31.099">Well that won t be the case, less is more.</p>
+      <p begin="00:18:31.099" end="00:18:36.099">And your investment is going to<br />be reflected in these decisions.</p>
+      <p begin="00:19:10.366" end="00:19:12.266">Dad, are you crazy?</p>
+      <p begin="00:19:22.366" end="00:19:24.166">That s impossible.</p>
+      <p begin="00:19:27.966" end="00:19:32.866">We ll talk later, I m in<br />the middle of a meeting.</p>
+      <p begin="00:19:35.132" end="00:19:35.799">OK.</p>
+      <p begin="00:19:37.466" end="00:19:38.132">OK.</p>
+      <p begin="00:19:39.799" end="00:19:40.466">Bye.</p>
+      <p begin="00:19:46.866" end="00:19:49.366">In this previous project,</p>
+      <p begin="00:19:50.699" end="00:19:55.699">with the same base of these little<br />islands, autonomous elements,</p>
+      <p begin="00:19:57.932" end="00:20:02.932">we re going to create a series<br />of communications that are</p>
+      <p begin="00:20:03.632" end="00:20:08.632">more fluid for the user and<br />that gives us the framework</p>
+      <p begin="00:20:08.933" end="00:20:11.433">for this current project.</p>
+      <p begin="00:20:13.299" end="00:20:18.099">César, I m clear on the<br />idea, but we re going to</p>
+      <p begin="00:20:18.432" end="00:20:21.832">need a more down-to-earth advance.</p>
+      <p begin="00:20:23.000" end="00:20:24.000">Of course.</p>
+      <p begin="00:20:24.899" end="00:20:29.699">My two collaborators have<br />been working out ideas</p>
+      <p begin="00:20:30.466" end="00:20:35.466">and they will share those<br />preliminary results with us.</p>
+      <p begin="00:20:39.432" end="00:20:40.165">Ana?</p>
+      <p begin="00:20:41.032" end="00:20:42.632">Yes, one second,</p>
+      <p begin="00:20:44.532" end="00:20:47.832">I just have to find the document.</p>
+      <p begin="00:20:49.599" end="00:20:52.199">While Ana is getting ready</p>
+      <p begin="00:20:52.199" end="00:20:55.432">I wanted to tell you about my proposal</p>
+      <p begin="00:20:55.432" end="00:20:59.265">which is based on the raw<br />materials we re going to use,</p>
+      <p begin="00:20:59.265" end="00:21:02.565">which are of the highest quality.</p>
+      <p begin="00:21:10.432" end="00:21:15.432">It is cold. But just thinking<br />about you I get warm.</p>
+      <p begin="00:21:15.532" end="00:21:18.332">When I have your sweet penis</p>
+      <p begin="00:21:29.966" end="00:21:31.066">Are you OK?</p>
+      <p begin="00:21:33.099" end="00:21:35.599">No, I don t feel so well.</p>
+      <p begin="00:21:35.599" end="00:21:36.999">You look pale.</p>
+      <p begin="00:21:37.232" end="00:21:38.132">Very pale</p>
+      <p begin="00:21:38.132" end="00:21:40.065">My blood pressure is just low.</p>
+      <p begin="00:21:40.065" end="00:21:41.565">Want something?</p>
+      <p begin="00:21:41.565" end="00:21:42.866">No, don t worry.</p>
+      <p begin="00:21:42.866" end="00:21:44.065">It ll pass soon.</p>
+      <p begin="00:21:44.065" end="00:21:45.365">Are you sure?</p>
+      <p begin="00:21:45.533" end="00:21:48.933">Don t worry, it happens sometimes.</p>
+      <p begin="00:21:48.933" end="00:21:53.933">One, two, three, four, and five.</p>
+      <p begin="00:21:55.233" end="00:22:00.233">Very good, we re going to<br />open our legs, flex that knee,</p>
+      <p begin="00:22:00.833" end="00:22:02.499">not forcing it.</p>
+      <p begin="00:22:04.532" end="00:22:06.165">And back.</p>
+      <p begin="00:22:07.766" end="00:22:09.566">Now the other one.</p>
+      <p begin="00:22:09.966" end="00:22:10.699">Auch!!!</p>
+      <p begin="00:22:13.032" end="00:22:16.165">Alicia help her please, slowly.</p>
+      <p begin="00:22:18.966" end="00:22:19.966">Come here!</p>
+      <p begin="00:22:21.699" end="00:22:22.699">Be careful</p>
+      <p begin="00:22:23.766" end="00:22:25.566">it s just a cramp.</p>
+      <p begin="00:24:03.966" end="00:24:05.866">He s not that ugly.</p>
+      <p begin="00:24:05.866" end="00:24:06.966">He s awful!</p>
+      <p begin="00:24:07.532" end="00:24:10.432">He has the face of a pervert,</p>
+      <p begin="00:24:10.432" end="00:24:12.699">but these things happen,<br />it s not his fault.</p>
+      <p begin="00:24:12.699" end="00:24:13.332">Gross!</p>
+      <p begin="00:24:15.000" end="00:24:16.700">It s not that bad</p>
+      <p begin="00:24:16.700" end="00:24:18.799">Besides, it s not exactly<br />like you ve dated models.</p>
+      <p begin="00:24:18.799" end="00:24:20.699">No, he looks awful.</p>
+      <p begin="00:24:20.932" end="00:24:24.332">This seriously doesn t bother you?</p>
+      <p begin="00:24:24.332" end="00:24:27.799">This is the guy Mom is<br />going to go away with.</p>
+      <p begin="00:24:27.799" end="00:24:32.599">That s one thing, but Dad hasn<br />t exactly been the best guy,</p>
+      <p begin="00:24:32.599" end="00:24:36.165">it s not like we can hold it against Mom.</p>
+      <p begin="00:24:36.165" end="00:24:37.866">What s wrong is...</p>
+      <p begin="00:24:37.866" end="00:24:40.466">Why would Dad send me this?</p>
+      <p begin="00:24:40.466" end="00:24:42.132">He s not going to send it to me,</p>
+      <p begin="00:24:42.132" end="00:24:43.733">I don t want to see that picture.</p>
+      <p begin="00:24:43.733" end="00:24:46.432">He can barely remember my birthday.</p>
+      <p begin="00:24:46.432" end="00:24:51.432">Poor thing, no one remembers the<br />baby of the family s birthday.</p>
+      <p begin="00:24:57.765" end="00:25:02.065">Have you ever thought<br />what it would be like</p>
+      <p begin="00:25:02.065" end="00:25:05.199">if we d been born there, in Chile?</p>
+      <p begin="00:25:05.199" end="00:25:07.733">Our grandparents...</p>
+      <p begin="00:25:10.065" end="00:25:12.465">a mom... I don t know...</p>
+      <p begin="00:25:12.465" end="00:25:16.532">We d be the same, but<br />it would have been nice</p>
+      <p begin="00:25:16.532" end="00:25:20.432">to have more family, it s just us here.</p>
+      <p begin="00:25:21.499" end="00:25:25.799">Have cousins, not only us.</p>
+      <p begin="00:25:28.466" end="00:25:31.366">Mom would be less hysterical.</p>
+      <p begin="00:25:31.366" end="00:25:35.366">Mom isn t hysterical, she s complicated.</p>
+      <p begin="00:25:41.265" end="00:25:44.799">Chapter 2. Ana.</p>
+      <p begin="00:26:44.699" end="00:26:45.399">Hi</p>
+      <p begin="00:26:47.399" end="00:26:52.399">I m close by and I thought we<br />could get some coffee or something.</p>
+      <p begin="00:26:53.899" end="00:26:56.866">I can t, I m still at the office.</p>
+      <p begin="00:26:56.866" end="00:26:57.999">Can I call you in a bit?</p>
+      <p begin="00:26:57.999" end="00:26:59.699">I m in a meeting.</p>
+      <p begin="00:27:28.532" end="00:27:29.532">Hi, honey.</p>
+      <p begin="00:27:30.799" end="00:27:32.999">- How are you? - Good.</p>
+      <p begin="00:27:32.999" end="00:27:35.099">Mommy, look, we have a dog.</p>
+      <p begin="00:27:35.099" end="00:27:36.632">His name is Chocolito.</p>
+      <p begin="00:27:36.632" end="00:27:38.032">Chocolito!</p>
+      <p begin="00:27:38.032" end="00:27:39.833">He wants to go in the bedroom.</p>
+      <p begin="00:27:39.833" end="00:27:41.233">Are you crazy?</p>
+      <p begin="00:27:41.233" end="00:27:42.632">You bought them a dog?</p>
+      <p begin="00:27:42.632" end="00:27:43.632">Hi, Anita.</p>
+      <p begin="00:27:45.399" end="00:27:48.499">That dog is going to stay here?</p>
+      <p begin="00:27:48.499" end="00:27:51.599">We talked about this last year.</p>
+      <p begin="00:27:52.833" end="00:27:54.733">Last year, not now.</p>
+      <p begin="00:27:55.366" end="00:28:00.366">We agreed that the girls need<br />to learn about responsibility.</p>
+      <p begin="00:28:01.366" end="00:28:06.366">Besides, when was the last<br />time you saw them this happy?</p>
+      <p begin="00:28:08.932" end="00:28:11.532">Does he have his vaccines?</p>
+      <p begin="00:28:11.532" end="00:28:15.666">Yeah, he has one left but<br />I can take him next week.</p>
+      <p begin="00:28:15.666" end="00:28:16.966">And the food?</p>
+      <p begin="00:28:16.966" end="00:28:19.632">Cami has a little food in her backpack,</p>
+      <p begin="00:28:19.632" end="00:28:21.265">and I can help you out with some more,</p>
+      <p begin="00:28:21.265" end="00:28:22.365">it s cheap.</p>
+      <p begin="00:28:25.099" end="00:28:26.799">He s really cute.</p>
+      <p begin="00:28:29.832" end="00:28:32.232">You should have told me.</p>
+      <p begin="00:28:32.232" end="00:28:33.399">I m sorry.</p>
+      <p begin="00:28:34.899" end="00:28:38.499">I need you to pay the girls tuition,</p>
+      <p begin="00:28:38.499" end="00:28:40.265">they ve been calling me all the time.</p>
+      <p begin="00:28:40.265" end="00:28:42.965">For two weeks straight now.</p>
+      <p begin="00:28:42.965" end="00:28:46.632">I can deposit some money<br />in your account tomorrow,</p>
+      <p begin="00:28:46.632" end="00:28:49.366">the rest I ll have to pay you back cause<br />I don t get paid until the other week.</p>
+      <p begin="00:28:49.366" end="00:28:51.065">That s not an option,</p>
+      <p begin="00:28:51.065" end="00:28:53.432">they ve been expecting the<br />payment for too long now.</p>
+      <p begin="00:28:53.432" end="00:28:56.132">Call the school yourself,<br />explain your situation</p>
+      <p begin="00:28:56.132" end="00:28:58.032">and that way they don t think<br />that I don t want to pay.</p>
+      <p begin="00:28:58.032" end="00:28:59.165">Call who?</p>
+      <p begin="00:28:59.165" end="00:29:04.132">I don t know, the principal, the<br />billing department, call, ask.</p>
+      <p begin="00:29:04.132" end="00:29:04.499">OK.</p>
+      <p begin="00:29:04.766" end="00:29:06.666">Girls, I m leaving.</p>
+      <p begin="00:29:06.666" end="00:29:07.666">Bye, Daddy.</p>
+      <p begin="00:29:07.666" end="00:29:08.766">I love you.</p>
+      <p begin="00:29:08.866" end="00:29:10.132">Bye cutie!</p>
+      <p begin="00:29:14.599" end="00:29:16.099">Bye, Chocolito.</p>
+      <p begin="00:29:16.899" end="00:29:17.999">Bye, Anita.</p>
+      <p begin="00:29:18.132" end="00:29:18.832">Thanks!</p>
+      <p begin="00:29:20.499" end="00:29:21.099">Anita!</p>
+      <p begin="00:29:21.165" end="00:29:21.799">What?</p>
+      <p begin="00:29:25.299" end="00:29:29.199">Do you remember the deal with the firm?</p>
+      <p begin="00:29:29.199" end="00:29:30.833">The meeting is Saturday.</p>
+      <p begin="00:29:30.833" end="00:29:32.199">No, no way!</p>
+      <p begin="00:29:32.899" end="00:29:35.165">This is too much!</p>
+      <p begin="00:29:35.165" end="00:29:39.265">We talked about me having<br />Saturday for forever.</p>
+      <p begin="00:29:39.265" end="00:29:40.765">I need to work.</p>
+      <p begin="00:29:40.765" end="00:29:42.733">It s a one-time thing.</p>
+      <p begin="00:29:42.733" end="00:29:46.299">I just need to trade you for Wednesday,</p>
+      <p begin="00:29:46.299" end="00:29:47.899">I ll take the girls Wednesday and Thursday</p>
+      <p begin="00:29:47.899" end="00:29:49.666">and you take them Saturday.</p>
+      <p begin="00:29:49.666" end="00:29:51.733">I can t! I have too much work that day.</p>
+      <p begin="00:29:51.733" end="00:29:53.233">I can t say no.</p>
+      <p begin="00:29:54.032" end="00:29:55.532">I can t say no.</p>
+      <p begin="00:29:55.899" end="00:29:59.199">So you ll take them on Wednesday.</p>
+      <p begin="00:29:59.199" end="00:30:00.699">Until Thursday.</p>
+      <p begin="00:30:00.699" end="00:30:01.833">Ok, fine, get out of here.</p>
+      <p begin="00:30:01.833" end="00:30:02.833">Thank you.</p>
+      <p begin="00:30:02.933" end="00:30:03.599">Bye.</p>
+      <p begin="00:30:12.166" end="00:30:16.866">That looks fun, honey.<br />Where did you get those?</p>
+      <p begin="00:30:16.866" end="00:30:18.132">Aunt Nicole gave them to me</p>
+      <p begin="00:30:18.132" end="00:30:18.799">Who?</p>
+      <p begin="00:30:19.999" end="00:30:23.199">Aunt Nicole, Daddy s girlfriend.</p>
+      <p begin="00:30:26.399" end="00:30:30.599">That s pretty for playing dress up, right?</p>
+      <p begin="00:30:30.599" end="00:30:32.933">But not for wearing in real life.</p>
+      <p begin="00:30:32.933" end="00:30:35.333">I m going to be a model.</p>
+      <p begin="00:30:38.199" end="00:30:41.065">You could also be an artist,</p>
+      <p begin="00:30:42.766" end="00:30:43.733">a singer,</p>
+      <p begin="00:30:45.265" end="00:30:46.765">an astronaut...</p>
+      <p begin="00:30:48.499" end="00:30:53.399">I m going to be the<br />prettiest model in the world.</p>
+      <p begin="00:30:58.933" end="00:31:00.533">One, two, three!</p>
+      <p begin="00:31:01.699" end="00:31:02.132">Hi!</p>
+      <p begin="00:31:02.599" end="00:31:03.299">Hi Mom!</p>
+      <p begin="00:31:03.299" end="00:31:05.132">How are you, doña Ana?</p>
+      <p begin="00:31:05.132" end="00:31:05.766">Fine.</p>
+      <p begin="00:31:07.466" end="00:31:12.466">I m so sorry, I m so<br />embarrassed, traffic was awful.</p>
+      <p begin="00:31:12.666" end="00:31:13.866">Don t worry.</p>
+      <p begin="00:31:13.866" end="00:31:16.265">I wanted to talk to you about something.</p>
+      <p begin="00:31:16.265" end="00:31:17.432">Do you have a few minutes?</p>
+      <p begin="00:31:17.432" end="00:31:18.099">Yes.</p>
+      <p begin="00:31:18.099" end="00:31:21.733">Girls stay here a minute,<br />we ll be right back,</p>
+      <p begin="00:31:21.733" end="00:31:22.833">don t move.</p>
+      <p begin="00:31:23.033" end="00:31:24.733">Let s seat there.</p>
+      <p begin="00:31:24.733" end="00:31:25.866">Is something wrong?</p>
+      <p begin="00:31:25.866" end="00:31:28.266">Nothing serious, really.</p>
+      <p begin="00:31:28.599" end="00:31:32.399">This morning Claudia bit a classmate,</p>
+      <p begin="00:31:33.166" end="00:31:35.966">that s never happened before</p>
+      <p begin="00:31:35.966" end="00:31:38.065">and I ve noticed she s<br />been really rebellious,</p>
+      <p begin="00:31:38.065" end="00:31:39.232">she s been different lately.</p>
+      <p begin="00:31:39.232" end="00:31:40.832">She is changing.</p>
+      <p begin="00:31:41.766" end="00:31:45.666">Claudia s dad and I separated recently.</p>
+      <p begin="00:31:47.532" end="00:31:51.632">And it s been hard to schedule the visits</p>
+      <p begin="00:31:51.799" end="00:31:55.499">and Claudia is really close with him.</p>
+      <p begin="00:31:55.499" end="00:31:59.099">It could be that it s affecting her.</p>
+      <p begin="00:31:59.099" end="00:32:02.532">Maybe without realizing<br />it you re transmitting</p>
+      <p begin="00:32:02.532" end="00:32:05.632">a little bit of anxiety to her.</p>
+      <p begin="00:32:06.399" end="00:32:10.299">Maybe, I hadn t thought of it that way.</p>
+      <p begin="00:32:10.299" end="00:32:11.699">Just saying...</p>
+      <p begin="00:32:11.699" end="00:32:14.899">In any case, don t worry,<br />here at school we have</p>
+      <p begin="00:32:14.899" end="00:32:16.799">a really good psychologist.</p>
+      <p begin="00:32:16.799" end="00:32:20.766">If you want I can schedule<br />her an appointment.</p>
+      <p begin="00:32:20.766" end="00:32:24.399">What s going to happen to<br />these little guys today?</p>
+      <p begin="00:32:24.399" end="00:32:26.933">I want you to read us Sleeping Beauty.</p>
+      <p begin="00:32:26.933" end="00:32:28.966">No, that s so boring.</p>
+      <p begin="00:32:28.966" end="00:32:31.666">No. The story of Chocolito.</p>
+      <p begin="00:32:31.899" end="00:32:33.899">OK. Once upon a time</p>
+      <p begin="00:32:35.032" end="00:32:38.132">there was a dog named Chocolito</p>
+      <p begin="00:32:38.866" end="00:32:42.099">and he liked to go to the park.</p>
+      <p begin="00:32:44.065" end="00:32:46.365">I wanna go to the park!</p>
+      <p begin="00:32:48.366" end="00:32:53.366">And then Chocolito realized<br />that they closed the park.</p>
+      <p begin="00:32:56.165" end="00:32:59.065">But Chocolito wasn t alone...</p>
+      <p begin="00:33:33.499" end="00:33:34.132">Hello?</p>
+      <p begin="00:33:38.065" end="00:33:38.765">Daniel!</p>
+      <p begin="00:33:40.165" end="00:33:43.765">But you promised, you re kidding me.</p>
+      <p begin="00:33:45.732" end="00:33:49.132">Claudia is going to a psychologist</p>
+      <p begin="00:33:49.132" end="00:33:51.932">and you think that s normal.</p>
+      <p begin="00:33:52.165" end="00:33:53.132">Moron.</p>
+      <p begin="00:33:54.332" end="00:33:56.032">What s wrong Mom?</p>
+      <p begin="00:33:57.566" end="00:33:59.066">Nothing, honey.</p>
+      <p begin="00:33:59.999" end="00:34:03.199">I have to take you to Grandma s,</p>
+      <p begin="00:34:03.199" end="00:34:04.999">do you want to go?</p>
+      <p begin="00:34:05.733" end="00:34:06.633">Let s go.</p>
+      <p begin="00:34:07.899" end="00:34:09.799">Ducks in the water!</p>
+      <p begin="00:34:10.532" end="00:34:11.132">Mommy,</p>
+      <p begin="00:34:11.132" end="00:34:11.566">Yes?</p>
+      <p begin="00:34:11.999" end="00:34:14.999">Why hasn t Dad come to see us?</p>
+      <p begin="00:34:14.999" end="00:34:17.399">Why doesn t Dad love us?</p>
+      <p begin="00:34:18.733" end="00:34:23.733">Of course he loves you, he<br />s just been really busy,</p>
+      <p begin="00:34:23.833" end="00:34:25.632">so he hasn t had time<br />to come see you guys,</p>
+      <p begin="00:34:25.632" end="00:34:27.332">but he will soon,</p>
+      <p begin="00:34:28.332" end="00:34:31.532">you can go out and do something.</p>
+      <p begin="00:34:31.532" end="00:34:34.432">It s your fault because you<br />re always bothering him.</p>
+      <p begin="00:34:34.432" end="00:34:36.966">It s not my fault, I don t bother him.</p>
+      <p begin="00:34:36.966" end="00:34:38.866">The only thing I ask of him<br />is that he does the things</p>
+      <p begin="00:34:38.866" end="00:34:40.632">that he s supposed to.</p>
+      <p begin="00:34:40.632" end="00:34:42.366">It s very convenient that I m the only one</p>
+      <p begin="00:34:42.366" end="00:34:44.299">who worries about you guys.</p>
+      <p begin="00:34:44.299" end="00:34:47.332">He worries about us, he gave us Chocolito,</p>
+      <p begin="00:34:47.332" end="00:34:50.065">and you re always asking for more money</p>
+      <p begin="00:34:50.065" end="00:34:52.165">and a lot more money.</p>
+      <p begin="00:34:52.165" end="00:34:54.432">Claudia, you re dad doesn t have the money</p>
+      <p begin="00:34:54.432" end="00:34:58.332">because he spends it on his girlfriend.</p>
+      <p begin="00:35:11.432" end="00:35:12.065">Hello!</p>
+      <p begin="00:35:20.799" end="00:35:21.699">Hi honey!</p>
+      <p begin="00:35:22.566" end="00:35:23.232">Hi.</p>
+      <p begin="00:35:26.833" end="00:35:28.233">What happened?</p>
+      <p begin="00:35:28.233" end="00:35:30.599">Why do you have that look on your face?</p>
+      <p begin="00:35:30.599" end="00:35:33.766">Girls, please, unbuckle your seatbelts.</p>
+      <p begin="00:35:33.766" end="00:35:36.065">I don t know why you insist<br />on working at a company</p>
+      <p begin="00:35:36.065" end="00:35:38.532">that doesn t appreciate you.</p>
+      <p begin="00:35:38.532" end="00:35:40.599">It s not that they don t<br />value me, that s how it is,</p>
+      <p begin="00:35:40.599" end="00:35:42.000">you have to go to work so<br />that they pay you more.</p>
+      <p begin="00:35:42.000" end="00:35:44.399">Why don t you change jobs?</p>
+      <p begin="00:35:44.399" end="00:35:47.299">Your brother can get you one.</p>
+      <p begin="00:35:47.365" end="00:35:52.365">Have you thought about getting<br />back together with Daniel,</p>
+      <p begin="00:35:53.065" end="00:35:55.499">he s such an honorable guy, so loving.</p>
+      <p begin="00:35:55.499" end="00:35:59.432">Mom, enough, I don t have<br />time for this right now.</p>
+      <p begin="00:35:59.432" end="00:36:02.766">Where are my beautiful girls?</p>
+      <p begin="00:36:03.699" end="00:36:06.099">Give your grandma a hug.</p>
+      <p begin="00:36:07.799" end="00:36:09.432">Where s my baby?</p>
+      <p begin="00:36:10.599" end="00:36:12.499">Come here baby,</p>
+      <p begin="00:36:13.232" end="00:36:14.832">come to grandma.</p>
+      <p begin="00:36:18.766" end="00:36:22.766">Go on in, I want to talk to your mother.</p>
+      <p begin="00:36:23.332" end="00:36:27.232">You re okay with it because I m the one</p>
+      <p begin="00:36:27.499" end="00:36:30.299">who takes care of the girls,</p>
+      <p begin="00:36:30.299" end="00:36:32.432">but I m not trying to rub it in your face,</p>
+      <p begin="00:36:32.432" end="00:36:34.199">it just worries me that<br />you re at a job where</p>
+      <p begin="00:36:34.199" end="00:36:37.299">you can t even pay for a nanny.</p>
+      <p begin="00:36:37.299" end="00:36:39.199">It s not that I don t make<br />enough, it s that Daniel</p>
+      <p begin="00:36:39.199" end="00:36:40.799">doesn t help me at all.</p>
+      <p begin="00:36:40.799" end="00:36:43.599">I had to pay two months<br />of the girls school,</p>
+      <p begin="00:36:43.599" end="00:36:45.733">he doesn t give me<br />money, it s not my fault.</p>
+      <p begin="00:36:45.733" end="00:36:46.699">Chocolito!</p>
+      <p begin="00:36:46.699" end="00:36:48.332">Who s Chocolito?</p>
+      <p begin="00:36:48.332" end="00:36:50.432">You mean you re going<br />to leave that dog here?</p>
+      <p begin="00:36:50.432" end="00:36:53.232">Mom, I can t take him to work.</p>
+      <p begin="00:36:53.232" end="00:36:56.099">And your dad s allergies?<br />No, absolutely not.</p>
+      <p begin="00:36:56.099" end="00:36:58.065">Chocolito, come here!</p>
+      <p begin="00:36:58.065" end="00:36:59.299">Go get him.</p>
+      <p begin="00:37:01.432" end="00:37:06.432">So, who wants dessert, we<br />have pancakes with honey,</p>
+      <p begin="00:37:06.532" end="00:37:11.532">pancakes with dulce de leche,<br />we can make a cheese tart,</p>
+      <p begin="00:37:11.833" end="00:37:16.132">the one I made last time.<br />Or... what do you want?</p>
+      <p begin="00:37:16.132" end="00:37:18.265">Come say hi to your grandpa princesses</p>
+      <p begin="00:37:18.265" end="00:37:19.365">Hi Pop Pop!</p>
+      <p begin="00:37:22.232" end="00:37:27.232">Here s a little present for<br />you, and for you, and this one</p>
+      <p begin="00:37:28.032" end="00:37:29.833">is for you to share.</p>
+      <p begin="00:37:29.833" end="00:37:31.366">Thank you!</p>
+      <p begin="00:37:31.366" end="00:37:34.000">I m gonna get you! Here I come!</p>
+      <p begin="00:37:34.000" end="00:37:34.366">Hi!</p>
+      <p begin="00:37:34.833" end="00:37:35.533">Hi Dad.</p>
+      <p begin="00:37:38.132" end="00:37:41.432">Aren t you going to do something?</p>
+      <p begin="00:37:41.432" end="00:37:43.733">You re just going to let<br />Mom go away with a stranger?</p>
+      <p begin="00:37:43.733" end="00:37:47.199">He s not a stranger to your mother.</p>
+      <p begin="00:37:47.199" end="00:37:50.299">Look, at this stage in the game</p>
+      <p begin="00:37:50.332" end="00:37:54.032">it s very hard to fall in love again,</p>
+      <p begin="00:37:54.032" end="00:37:56.832">even for you, it s not easy.</p>
+      <p begin="00:38:08.800" end="00:38:13.800">I can t take the dog to the<br />meeting, absolutely not.</p>
+      <p begin="00:38:14.000" end="00:38:16.366">Me neither, they won t let me<br />take the dog to my work either.</p>
+      <p begin="00:38:16.366" end="00:38:17.666">My job is important too.</p>
+      <p begin="00:38:17.666" end="00:38:19.299">This is an office.</p>
+      <p begin="00:38:19.299" end="00:38:21.099">And you know what else,<br />you bought that dog,</p>
+      <p begin="00:38:21.099" end="00:38:23.599">it should be your responsibility.</p>
+      <p begin="00:38:23.599" end="00:38:26.199">Just like going to see the<br />girls every once in a while.</p>
+      <p begin="00:38:26.199" end="00:38:28.799">I m dying to spend more<br />time with my girls,</p>
+      <p begin="00:38:28.799" end="00:38:30.165">but as long as this deal<br />lasts, I have less time</p>
+      <p begin="00:38:30.165" end="00:38:31.665">they know that.</p>
+      <p begin="00:38:31.665" end="00:38:34.599">I could care less, because<br />when you are with them</p>
+      <p begin="00:38:34.599" end="00:38:37.666">it s a problem too, you let<br />them do whatever they want</p>
+      <p begin="00:38:37.666" end="00:38:39.566">and then when I set any<br />rules they think I m crazy.</p>
+      <p begin="00:38:39.566" end="00:38:41.000">That s not true.</p>
+      <p begin="00:38:41.000" end="00:38:42.733">Give this back to your girlfriend</p>
+      <p begin="00:38:42.733" end="00:38:43.933">What s this?</p>
+      <p begin="00:38:43.933" end="00:38:47.999">And I don t want her buying any<br />more sexist toys for Claudia.</p>
+      <p begin="00:38:47.999" end="00:38:49.933">Claudia asked for that.</p>
+      <p begin="00:38:49.933" end="00:38:51.899">It doesn t matter, doesn t<br />your girlfriend have a brain</p>
+      <p begin="00:38:51.899" end="00:38:52.899">to say no?</p>
+      <p begin="00:38:52.933" end="00:38:56.833">She should, she s a political scientist</p>
+      <p begin="00:38:56.833" end="00:38:57.833">I m sorry.</p>
+      <p begin="00:38:59.265" end="00:39:00.865">You re an idiot,</p>
+      <p begin="00:39:01.199" end="00:39:02.399">I m nervous!</p>
+      <p begin="00:39:02.399" end="00:39:04.899">You don t even deserve Chocolito.</p>
+      <p begin="00:39:04.899" end="00:39:06.599">Anita, I m sorry.</p>
+      <p begin="00:40:32.632" end="00:40:35.132">You have a lot of talent,</p>
+      <p begin="00:40:35.132" end="00:40:38.232">I was sure that you were going<br />to really dive into this,</p>
+      <p begin="00:40:38.232" end="00:40:41.399">that you were going to make it your own,</p>
+      <p begin="00:40:41.399" end="00:40:43.599">and I don t see a lot.</p>
+      <p begin="00:40:44.432" end="00:40:49.332">I ve just been really busy<br />and I m a little stuck</p>
+      <p begin="00:40:49.332" end="00:40:52.399">on the whole parking lot thing.</p>
+      <p begin="00:40:52.399" end="00:40:56.532">I promise that next week I m<br />going to show you something</p>
+      <p begin="00:40:56.532" end="00:41:00.632">that you ll like a lot, I<br />just need a little more time.</p>
+      <p begin="00:41:00.632" end="00:41:04.699">OK, but there isn t a lot of<br />time and I m counting on you.</p>
+      <p begin="00:41:04.699" end="00:41:06.199">Yes, thank you.</p>
+      <p begin="00:41:56.999" end="00:41:59.699">It s really dangerous, Mom.</p>
+      <p begin="00:41:59.699" end="00:42:02.399">I m really worried, you haven<br />t seen this guy in forever,</p>
+      <p begin="00:42:02.399" end="00:42:04.766">he could be a psychopath or something.</p>
+      <p begin="00:42:04.766" end="00:42:07.866">Honey, why don t you get off<br />that little high horse of yours?</p>
+      <p begin="00:42:07.866" end="00:42:09.899">What did we come here for?</p>
+      <p begin="00:42:09.899" end="00:42:12.666">To celebrate! So, glasses up!</p>
+      <p begin="00:42:12.666" end="00:42:13.799">Let s wait for Dad.</p>
+      <p begin="00:42:13.799" end="00:42:14.566">Cheers!</p>
+      <p begin="00:42:15.999" end="00:42:17.366">Oh, my love!</p>
+      <p begin="00:42:18.065" end="00:42:18.965">Gorgeous.</p>
+      <p begin="00:42:22.532" end="00:42:23.732">Oh, my love.</p>
+      <p begin="00:42:27.132" end="00:42:29.832">What s wrong with this guy?</p>
+      <p begin="00:42:30.132" end="00:42:30.799">Sir?</p>
+      <p begin="00:42:31.666" end="00:42:32.466">Sir! No!</p>
+      <p begin="00:42:55.066" end="00:42:57.766">Oh, no, what are you doing?</p>
+      <p begin="00:42:57.766" end="00:42:59.466">What s happening?</p>
+      <p begin="00:43:28.399" end="00:43:29.065">Clau</p>
+      <p begin="00:43:29.866" end="00:43:32.566">What s up, you can t sleep?</p>
+      <p begin="00:43:32.566" end="00:43:33.232">No.</p>
+      <p begin="00:43:49.132" end="00:43:50.932">Do you miss Daddy?</p>
+      <p begin="00:43:56.065" end="00:43:57.132">Sometimes.</p>
+      <p begin="00:43:59.132" end="00:44:00.332">I always do.</p>
+      <p begin="00:44:04.799" end="00:44:08.299">Is that why you bit your classmate?</p>
+      <p begin="00:44:08.299" end="00:44:10.699">No. He was bothering me.</p>
+      <p begin="00:44:14.933" end="00:44:19.933">Honey, sometimes people do<br />things that you don t understand,</p>
+      <p begin="00:44:20.933" end="00:44:25.333">but that doesn t mean<br />you have to hurt them.</p>
+      <p begin="00:44:35.933" end="00:44:38.933">Give me that, let me help you.</p>
+      <p begin="00:44:38.933" end="00:44:39.933">Thank you.</p>
+      <p begin="00:44:40.933" end="00:44:43.233">Hi, honey, how are you?</p>
+      <p begin="00:44:43.233" end="00:44:45.799">Let s play by the tree, come on.</p>
+      <p begin="00:44:45.799" end="00:44:47.065">How are you, Anita?</p>
+      <p begin="00:44:47.065" end="00:44:48.065">Good, Rita, and you?</p>
+      <p begin="00:44:48.065" end="00:44:49.499">Good. Thanks, honey.</p>
+      <p begin="00:44:49.499" end="00:44:51.499">Rita, can you watch Chocolito, please?</p>
+      <p begin="00:44:51.499" end="00:44:53.666">They re going to fire me if<br />I take him to work again.</p>
+      <p begin="00:44:53.666" end="00:44:55.366">Don t worry, I ll see what I can do.</p>
+      <p begin="00:44:55.366" end="00:44:57.799">Your dad is in bed so<br />he won t even notice.</p>
+      <p begin="00:44:57.799" end="00:44:58.699">Is he OK?</p>
+      <p begin="00:44:58.699" end="00:45:01.899">I don t know, he doesn t feel well,</p>
+      <p begin="00:45:01.899" end="00:45:02.933">he s been locked up in<br />his room since yesterday</p>
+      <p begin="00:45:02.933" end="00:45:03.799">And Mom?</p>
+      <p begin="00:45:03.799" end="00:45:05.199">In the garden.</p>
+      <p begin="00:45:05.232" end="00:45:09.632">Watch my car for a sec,<br />I m going to say hi.</p>
+      <p begin="00:45:09.632" end="00:45:11.032">Yes, go ahead.</p>
+      <p begin="00:45:11.099" end="00:45:11.733">Girls!</p>
+      <p begin="00:45:52.966" end="00:45:53.966">Hi, honey.</p>
+      <p begin="00:45:54.466" end="00:45:55.132">Hi,</p>
+      <p begin="00:45:56.132" end="00:45:57.332">is Dad sick?</p>
+      <p begin="00:45:58.599" end="00:45:59.899">He has a UTI.</p>
+      <p begin="00:46:00.699" end="00:46:04.599">But you know how he is, he exaggerates.</p>
+      <p begin="00:46:04.599" end="00:46:07.866">Don t you think maybe<br />you can delay your trip?</p>
+      <p begin="00:46:07.866" end="00:46:10.366">Why would I do that? My God!</p>
+      <p begin="00:46:10.366" end="00:46:13.466">Your father is a hypochondriac.</p>
+      <p begin="00:46:13.866" end="00:46:18.566">If you re so worried take<br />care of him yourself.</p>
+      <p begin="00:46:18.566" end="00:46:19.666">Hi, Grammy.</p>
+      <p begin="00:46:19.799" end="00:46:22.299">Hello, my granddaughters,</p>
+      <p begin="00:46:22.299" end="00:46:23.999">let s do Tai Chi,</p>
+      <p begin="00:46:25.799" end="00:46:27.199">feet together,</p>
+      <p begin="00:46:29.733" end="00:46:31.666">one leg here,</p>
+      <p begin="00:46:33.399" end="00:46:36.799">lower and raise the energy,</p>
+      <p begin="00:46:38.032" end="00:46:40.065">lower the energy,</p>
+      <p begin="00:46:41.399" end="00:46:43.399">put your foot there,</p>
+      <p begin="00:46:44.966" end="00:46:46.199">do the urn,</p>
+      <p begin="00:46:47.599" end="00:46:51.299">comb the hair.</p>
+      <p begin="00:47:14.899" end="00:47:19.399">I remember when we were<br />packing to come here.</p>
+      <p begin="00:47:19.399" end="00:47:20.566">Me too.</p>
+      <p begin="00:47:23.099" end="00:47:26.999">I ve never been more scared in my life.</p>
+      <p begin="00:47:26.999" end="00:47:29.666">I thought they were going<br />to detain us in the airport,</p>
+      <p begin="00:47:29.666" end="00:47:34.266">that Marito was going<br />to be born on the plane.</p>
+      <p begin="00:47:35.699" end="00:47:37.499">I would have liked</p>
+      <p begin="00:47:38.432" end="00:47:41.832">for things to have been different.</p>
+      <p begin="00:48:35.766" end="00:48:40.066">Isn t a lot of stuff<br />for such a short trip?</p>
+      <p begin="00:48:49.833" end="00:48:51.833">OK, alright already.</p>
+      <p begin="00:48:51.833" end="00:48:54.265">Write me when you got there.</p>
+      <p begin="00:48:54.265" end="00:48:58.132">Yes, honey, I ll write you, don t worry.</p>
+      <p begin="00:48:58.132" end="00:49:00.399">Let me know when you re coming<br />back and I ll pick you up.</p>
+      <p begin="00:49:00.399" end="00:49:02.165">Well, I don t know yet.</p>
+      <p begin="00:49:02.165" end="00:49:03.865">What do you mean?</p>
+      <p begin="00:49:03.933" end="00:49:05.733">I ll let you know.</p>
+      <p begin="00:49:05.733" end="00:49:08.366">I don t want to miss my<br />flight. Kisses to the kids,</p>
+      <p begin="00:49:08.366" end="00:49:10.265">I love you a lot, I love you.</p>
+      <p begin="00:49:10.265" end="00:49:13.465">When did you buy the ticket for?</p>
+      <p begin="00:49:34.666" end="00:49:39.566">Where is Grandma, why<br />haven t we gone to see her?</p>
+      <p begin="00:49:39.566" end="00:49:42.966">She s in another country<br />seeing her boyfriend.</p>
+      <p begin="00:49:42.966" end="00:49:45.466">Isn t Grandpa her boyfriend?</p>
+      <p begin="00:49:45.466" end="00:49:48.266">No, silly, he s her husband.</p>
+      <p begin="00:49:53.165" end="00:49:54.765">Mommy it itches!</p>
+      <p begin="00:49:54.766" end="00:49:56.366">What s going on?</p>
+      <p begin="00:49:56.366" end="00:49:58.666">Mommy, come, it itches.</p>
+      <p begin="00:50:03.699" end="00:50:04.499">Claudia!</p>
+      <p begin="00:50:04.499" end="00:50:07.499">Why would you do that to your sister?</p>
+      <p begin="00:50:07.499" end="00:50:09.899">Can t you see she s sick?</p>
+      <p begin="00:50:09.899" end="00:50:11.933">But she looks like a Pegasus.</p>
+      <p begin="00:50:11.933" end="00:50:14.233">A mess is what this is.</p>
+      <p begin="00:50:15.132" end="00:50:18.232">Go get a bowl to clean this up.</p>
+      <p begin="00:50:18.232" end="00:50:20.699">But Mommy she looks pretty.</p>
+      <p begin="00:50:20.699" end="00:50:22.799">Claudia go! I m not messing around.</p>
+      <p begin="00:50:22.799" end="00:50:23.432">Hurry.</p>
+      <p begin="00:50:26.432" end="00:50:27.366">Honey,</p>
+      <p begin="00:50:29.399" end="00:50:31.699">What did you sister do!</p>
+      <p begin="00:50:41.099" end="00:50:43.099">Clau, open the door.</p>
+      <p begin="00:50:43.866" end="00:50:44.866">I m going.</p>
+      <p begin="00:50:53.065" end="00:50:54.665">- Hi - Hi, Clau.</p>
+      <p begin="00:50:55.765" end="00:50:57.165">What happened?</p>
+      <p begin="00:50:57.165" end="00:50:58.466">I m in trouble with my mom.</p>
+      <p begin="00:50:58.466" end="00:50:59.899">Why?</p>
+      <p begin="00:50:59.899" end="00:51:02.699">Because I made Cami a costume.</p>
+      <p begin="00:51:02.699" end="00:51:04.000">What do you mean?</p>
+      <p begin="00:51:04.000" end="00:51:05.800">A Pegasus costume.</p>
+      <p begin="00:51:06.265" end="00:51:08.065">Where is your mom?</p>
+      <p begin="00:51:08.065" end="00:51:09.665">In the bathroom.</p>
+      <p begin="00:51:10.833" end="00:51:11.733">Let s go.</p>
+      <p begin="00:51:19.999" end="00:51:23.699">I don t understand it, but I like it.</p>
+      <p begin="00:51:23.699" end="00:51:24.699">Thank you.</p>
+      <p begin="00:51:25.833" end="00:51:30.633">Don t encourage her, she<br />shouldn t have done it.</p>
+      <p begin="00:51:34.666" end="00:51:39.666">I think I should just stay<br />home, this is a disaster.</p>
+      <p begin="00:51:40.165" end="00:51:43.965">I ll stay with the girls, I ll fix it.</p>
+      <p begin="00:51:44.499" end="00:51:47.599">I don t feel I even want to go.</p>
+      <p begin="00:51:47.766" end="00:51:52.766">Go for a little bit, if<br />you don t like it come back</p>
+      <p begin="00:51:52.866" end="00:51:54.466">and I have wine.</p>
+      <p begin="00:51:55.065" end="00:51:56.465">And that s it.</p>
+      <p begin="00:51:56.465" end="00:52:01.465">He probably got married and<br />doesn t feel like coming.</p>
+      <p begin="00:52:01.666" end="00:52:02.799">Hi.</p>
+      <p begin="00:52:02.799" end="00:52:04.032">Ay, how are you?</p>
+      <p begin="00:52:04.032" end="00:52:05.032">Anita!</p>
+      <p begin="00:52:05.032" end="00:52:06.599">How are you?</p>
+      <p begin="00:52:06.599" end="00:52:08.566">It s been forever! I m so glad you came.</p>
+      <p begin="00:52:08.566" end="00:52:11.332">It s so great to see you guys!</p>
+      <p begin="00:52:11.332" end="00:52:12.165">How have you been?</p>
+      <p begin="00:52:12.165" end="00:52:13.432">Great.</p>
+      <p begin="00:52:13.432" end="00:52:15.065">Super.</p>
+      <p begin="00:52:15.065" end="00:52:17.532">That s great, I m happy to hear that.</p>
+      <p begin="00:52:17.532" end="00:52:19.899">You didn t bring that<br />good-looking husband of yours?</p>
+      <p begin="00:52:19.899" end="00:52:21.532">He s not my husband anymore.</p>
+      <p begin="00:52:21.532" end="00:52:23.032">Aw, I thought so, the<br />other day I saw him...</p>
+      <p begin="00:52:23.032" end="00:52:23.666">Hello.</p>
+      <p begin="00:52:26.165" end="00:52:26.799">Hello.</p>
+      <p begin="00:52:27.733" end="00:52:28.833">Ana, right?</p>
+      <p begin="00:52:29.399" end="00:52:30.065">Yes.</p>
+      <p begin="00:52:31.566" end="00:52:32.866">And you re...</p>
+      <p begin="00:52:35.699" end="00:52:36.599">Federico.</p>
+      <p begin="00:52:36.932" end="00:52:41.932">I m sorry, I m the worst,<br />I have a super bad memory.</p>
+      <p begin="00:52:42.132" end="00:52:43.132">It s fine.</p>
+      <p begin="00:52:47.766" end="00:52:48.632">Bored?</p>
+      <p begin="00:52:49.866" end="00:52:52.466">Well, yes, actually, I am.</p>
+      <p begin="00:52:52.466" end="00:52:55.366">I don t know why I even came.</p>
+      <p begin="00:52:55.366" end="00:52:57.532">Morbid curiosity, same as me.</p>
+      <p begin="00:52:57.532" end="00:52:58.432">Probably.</p>
+      <p begin="00:53:05.065" end="00:53:08.265">That chick back there, you know?</p>
+      <p begin="00:53:08.265" end="00:53:09.765">Yeah, you know.</p>
+      <p begin="00:53:10.699" end="00:53:11.999">You re awful!</p>
+      <p begin="00:53:14.799" end="00:53:17.766">And I m not totally sure,</p>
+      <p begin="00:53:18.732" end="00:53:22.032">but I think maybe her over there,</p>
+      <p begin="00:53:22.032" end="00:53:25.132">although they look pretty natural.</p>
+      <p begin="00:53:25.132" end="00:53:27.132">But with that dress...</p>
+      <p begin="00:53:27.132" end="00:53:28.932">It s hard to tell.</p>
+      <p begin="00:53:33.399" end="00:53:36.899">How many have had a gastric bypass?</p>
+      <p begin="00:53:37.499" end="00:53:38.165">Me.</p>
+      <p begin="00:53:40.233" end="00:53:41.833">No, I m serious.</p>
+      <p begin="00:53:41.833" end="00:53:43.065">I m serious too.</p>
+      <p begin="00:53:43.065" end="00:53:44.699">No.</p>
+      <p begin="00:53:44.699" end="00:53:46.899">Because of my thyroid.</p>
+      <p begin="00:53:49.165" end="00:53:51.665">I m sorry, I m the worst.</p>
+      <p begin="00:53:51.733" end="00:53:52.733">I m sorry.</p>
+      <p begin="00:53:53.165" end="00:53:54.365">Don t worry.</p>
+      <p begin="00:53:54.365" end="00:53:56.366">It wasn t my intention, really.</p>
+      <p begin="00:53:56.366" end="00:53:58.066">Relax, it s fine.</p>
+      <p begin="00:53:58.066" end="00:53:59.933">But there s nothing wrong<br />with getting a gastric bypass.</p>
+      <p begin="00:53:59.933" end="00:54:01.333">Of course not.</p>
+      <p begin="00:54:02.632" end="00:54:07.632">You know you re the last<br />person I d have imagined here.</p>
+      <p begin="00:54:08.132" end="00:54:08.799">Why?</p>
+      <p begin="00:54:10.232" end="00:54:13.632">You were one of the popular girls.</p>
+      <p begin="00:54:13.632" end="00:54:17.032">I was not popular, not even close.</p>
+      <p begin="00:54:17.032" end="00:54:19.632">At least one of the pretty ones.</p>
+      <p begin="00:54:19.632" end="00:54:20.932">What a clown!</p>
+      <p begin="00:54:22.666" end="00:54:23.866">I m serious.</p>
+      <p begin="00:54:26.733" end="00:54:30.333">I was crazy over you in high school.</p>
+      <p begin="00:54:32.833" end="00:54:35.333">I really liked you a lot.</p>
+      <p begin="00:54:36.165" end="00:54:36.799">A lot.</p>
+      <p begin="00:56:02.366" end="00:56:05.566">Chapter 3. Andrés.</p>
+      <p begin="00:56:53.099" end="00:56:58.099">Today we re going to talk about<br />a series of political movements,</p>
+      <p begin="00:56:59.499" end="00:57:04.299">from the wars of independence<br />up to the present,</p>
+      <p begin="00:57:04.799" end="00:57:09.799">that have influenced the reality<br />of Latin America in some way.</p>
+      <p begin="00:57:45.899" end="00:57:46.632">Hello?</p>
+      <p begin="00:57:49.532" end="00:57:52.132">Yes, I have it turned off.</p>
+      <p begin="00:57:52.132" end="00:57:53.532">What happened?</p>
+      <p begin="00:57:56.599" end="00:57:57.399">What?!</p>
+      <p begin="00:58:01.032" end="00:58:02.532">No. I m coming.</p>
+      <p begin="00:58:02.532" end="00:58:05.599">Yes, I ll be there in 20 minutes.</p>
+      <p begin="00:58:05.599" end="00:58:06.432">OK. Bye.</p>
+      <p begin="00:58:16.499" end="00:58:17.499">Thank you.</p>
+      <p begin="00:58:19.032" end="00:58:21.432">I talked to the doctors.</p>
+      <p begin="00:58:21.432" end="00:58:24.532">He s fine, he has an infection,</p>
+      <p begin="00:58:24.532" end="00:58:27.499">he didn t take care of it<br />properly, it caused complications.</p>
+      <p begin="00:58:27.499" end="00:58:30.799">They still have to do some exams.</p>
+      <p begin="00:58:30.799" end="00:58:33.866">They re recommending he doesn t stay alone</p>
+      <p begin="00:58:33.866" end="00:58:36.166">because he s depressed,</p>
+      <p begin="00:58:36.866" end="00:58:41.366">we have to figure out<br />what we re going to do.</p>
+      <p begin="00:58:42.732" end="00:58:45.232">And with Mom on vacation.</p>
+      <p begin="00:58:45.232" end="00:58:47.632">What are we going to do?</p>
+      <p begin="00:58:48.766" end="00:58:53.566">We were thinking and maybe<br />we could pay someone.</p>
+      <p begin="00:58:54.833" end="00:58:57.933">Like split the cost of a carer.</p>
+      <p begin="00:58:59.799" end="00:59:04.799">Well, we could pay for her, and<br />he could stay at your house.</p>
+      <p begin="00:59:05.799" end="00:59:09.232">But my house is so small<br />and now I have a dog, too,</p>
+      <p begin="00:59:09.232" end="00:59:11.032">how would I do it?</p>
+      <p begin="00:59:11.933" end="00:59:13.133">No, I can t.</p>
+      <p begin="00:59:13.133" end="00:59:16.733">In Diego s apartment it s impossible</p>
+      <p begin="00:59:16.733" end="00:59:20.333">and in my house he won t be happy...</p>
+      <p begin="00:59:20.866" end="00:59:25.666">There s a spare room in<br />your house, it s bigger.</p>
+      <p begin="00:59:25.666" end="00:59:28.866">We were thinking about<br />the emotional aspects,</p>
+      <p begin="00:59:28.866" end="00:59:31.266">that he feel encouraged.</p>
+      <p begin="00:59:31.266" end="00:59:34.232">He s not going to feel<br />better in a tiny little room</p>
+      <p begin="00:59:34.232" end="00:59:36.332">than in your house in a bigger room.</p>
+      <p begin="00:59:36.332" end="00:59:38.833">You re his favorite,<br />he s always said that.</p>
+      <p begin="00:59:38.833" end="00:59:39.733">He can t stay at my house.</p>
+      <p begin="00:59:39.733" end="00:59:40.733">Excuse me.</p>
+      <p begin="00:59:40.866" end="00:59:41.966">Hello, yes?</p>
+      <p begin="01:00:02.432" end="01:00:04.432">Doña Ana, I m sorry,</p>
+      <p begin="01:00:04.432" end="01:00:06.232">can I speak with you?</p>
+      <p begin="01:00:06.232" end="01:00:07.232">Of course,</p>
+      <p begin="01:00:10.766" end="01:00:11.766">what s up?</p>
+      <p begin="01:00:15.999" end="01:00:17.999">It s about your Dad.</p>
+      <p begin="01:00:17.999" end="01:00:20.566">Did he say something to you?</p>
+      <p begin="01:00:20.566" end="01:00:22.166">Treat you badly?</p>
+      <p begin="01:00:22.366" end="01:00:24.166">No, that s not it.</p>
+      <p begin="01:00:26.032" end="01:00:28.332">But he does bad things.</p>
+      <p begin="01:00:30.232" end="01:00:31.232">Like what?</p>
+      <p begin="01:00:36.933" end="01:00:38.733">It doesn t matter.</p>
+      <p begin="01:00:38.966" end="01:00:42.766">But I think I can t work here anymore.</p>
+      <p begin="01:00:42.766" end="01:00:44.266">Esmeralda, why?</p>
+      <p begin="01:00:48.099" end="01:00:49.499">Anita, my tea!</p>
+      <p begin="01:00:50.132" end="01:00:52.132">Ay, Dad, I m coming!</p>
+      <p begin="01:00:56.466" end="01:00:59.166">Look, let s talk later, OK?</p>
+      <p begin="01:01:00.099" end="01:01:00.899">Yes, OK.</p>
+      <p begin="01:01:06.133" end="01:01:09.933">He was already annoying, and now this.</p>
+      <p begin="01:01:09.933" end="01:01:12.432">Yeah and now that Mom<br />abandoned him, worse.</p>
+      <p begin="01:01:12.432" end="01:01:15.032">Mom didn t abandon him,<br />Mom went on vacation.</p>
+      <p begin="01:01:15.032" end="01:01:19.999">But since he s used to everyone<br />doing everything for him.</p>
+      <p begin="01:01:19.999" end="01:01:24.999">Well I m sick of that, tired<br />of wondering what s wrong,</p>
+      <p begin="01:01:25.566" end="01:01:29.566">or if he s OK. I shouldn t care anymore.</p>
+      <p begin="01:01:31.132" end="01:01:36.132">If he s already being such a<br />pain it s because he s better.</p>
+      <p begin="01:01:50.933" end="01:01:51.666">Dad!</p>
+      <p begin="01:01:53.866" end="01:01:55.566">What s up, honey?</p>
+      <p begin="01:01:55.566" end="01:01:57.199">Why are you walking around like that?</p>
+      <p begin="01:01:57.199" end="01:01:58.899">I feel more comfortable.</p>
+      <p begin="01:01:58.899" end="01:02:00.899">Yes, Dad, but not here.</p>
+      <p begin="01:02:00.899" end="01:02:02.799">Now I understand poor Esmeralda.</p>
+      <p begin="01:02:02.799" end="01:02:05.099">I thought she had left.</p>
+      <p begin="01:02:11.466" end="01:02:16.466">That s why there are gardens<br />for the kids to play in.</p>
+      <p begin="01:02:16.766" end="01:02:20.866">They can play tennis, go<br />swimming, go riding, and they can</p>
+      <p begin="01:02:20.866" end="01:02:22.399">even go to the stadium.</p>
+      <p begin="01:02:22.399" end="01:02:24.132">And I can go there?</p>
+      <p begin="01:02:24.132" end="01:02:26.799">Of course you can go.</p>
+      <p begin="01:02:27.766" end="01:02:29.366">Now it s time...</p>
+      <p begin="01:02:29.366" end="01:02:33.265">What are you doing here? Why<br />didn t you get on the school bus?</p>
+      <p begin="01:02:33.265" end="01:02:34.865">Grandpa said so.</p>
+      <p begin="01:02:35.499" end="01:02:39.899">It s just kindergarten,<br />it s not a big deal.</p>
+      <p begin="01:02:39.899" end="01:02:43.199">No, Dad. Now I have to take her to school.</p>
+      <p begin="01:02:43.199" end="01:02:46.232">And I m late. Come on Cami, get out here,</p>
+      <p begin="01:02:46.232" end="01:02:48.132">go find your shoes.</p>
+      <p begin="01:02:49.000" end="01:02:51.200">We ll finish it later.</p>
+      <p begin="01:02:51.699" end="01:02:53.699">It was too much Dad.</p>
+      <p begin="01:02:58.466" end="01:03:02.766">Hi, Mom, since you left<br />Dad is doing poorly</p>
+      <p begin="01:03:02.766" end="01:03:05.166">and everything is chaos.</p>
+      <p begin="01:03:14.799" end="01:03:18.399">Hi, Mom, I m happy you re having fun</p>
+      <p begin="01:03:18.399" end="01:03:21.499">but Dad isn t doing well alone.</p>
+      <p begin="01:03:21.499" end="01:03:24.099">Maybe it s better if you come back</p>
+      <p begin="01:03:24.099" end="01:03:24.632">soon.</p>
+      <p begin="01:03:26.265" end="01:03:27.065">Kisses.</p>
+      <p begin="01:03:29.432" end="01:03:30.099">Mommy</p>
+      <p begin="01:03:31.733" end="01:03:32.499">Mommy!</p>
+      <p begin="01:03:33.032" end="01:03:33.666">Mommy</p>
+      <p begin="01:03:34.466" end="01:03:35.232">Mommy!</p>
+      <p begin="01:03:35.832" end="01:03:37.132">What s wrong?</p>
+      <p begin="01:03:37.132" end="01:03:38.732">Where s Pop Pop?</p>
+      <p begin="01:03:38.732" end="01:03:39.999">Where s Pop Pop?</p>
+      <p begin="01:03:39.999" end="01:03:40.966">What?</p>
+      <p begin="01:03:40.966" end="01:03:42.032">Pop Pop.</p>
+      <p begin="01:03:42.032" end="01:03:42.832">Pop Pop.</p>
+      <p begin="01:03:44.466" end="01:03:46.766">Your grandpa went home.</p>
+      <p begin="01:03:46.766" end="01:03:47.566">But why?</p>
+      <p begin="01:03:47.732" end="01:03:52.332">Because he felt better<br />now, and he has a home.</p>
+      <p begin="01:03:52.332" end="01:03:55.566">First you kicked Dad out, now Grandpa</p>
+      <p begin="01:03:55.566" end="01:03:57.766">and next you re going to kick us out.</p>
+      <p begin="01:03:57.766" end="01:03:59.933">Why did you kick me out?</p>
+      <p begin="01:03:59.933" end="01:04:04.232">I haven t kicked anyone out and<br />I m not going to kick you out.</p>
+      <p begin="01:04:04.232" end="01:04:06.032">You re bad, bad bad bad.</p>
+      <p begin="01:04:06.032" end="01:04:08.299">Yeah, bad, bad bad bad.</p>
+      <p begin="01:04:08.299" end="01:04:09.599">Come on, Cami</p>
+      <p begin="01:06:18.065" end="01:06:22.265">and forgot the content of the environment.</p>
+      <p begin="01:06:22.265" end="01:06:24.565">Why not be contemporary</p>
+      <p begin="01:06:25.165" end="01:06:28.765">from the tropics with local answers.</p>
+      <p begin="01:06:30.132" end="01:06:35.132">I m going to show you series<br />of floor plans and elevations.</p>
+      <p begin="01:06:36.032" end="01:06:37.232">I like that.</p>
+      <p begin="01:06:38.166" end="01:06:42.866">For example, in this<br />image from the master plan</p>
+      <p begin="01:06:42.866" end="01:06:46.366">we can see the whole design and<br />its relationship to the land.</p>
+      <p begin="01:06:46.366" end="01:06:50.066">We re definitely getting much closer.</p>
+      <p begin="01:06:58.099" end="01:07:00.299">Hi, Rita, how are you?</p>
+      <p begin="01:07:00.299" end="01:07:01.532">Anita how s it going?</p>
+      <p begin="01:07:01.532" end="01:07:02.032">Fine.</p>
+      <p begin="01:07:02.766" end="01:07:04.866">I brought some bread.</p>
+      <p begin="01:07:04.866" end="01:07:06.632">That sounds delicious!</p>
+      <p begin="01:07:06.632" end="01:07:07.632">How s Dad?</p>
+      <p begin="01:07:07.999" end="01:07:10.599">I thought he was with you.</p>
+      <p begin="01:07:10.599" end="01:07:11.466">What?</p>
+      <p begin="01:07:13.099" end="01:07:17.099">Dad hasn t been with me for like a week.</p>
+      <p begin="01:07:17.099" end="01:07:18.833">I don t know, Anita.</p>
+      <p begin="01:07:18.833" end="01:07:23.433">I took some days off,<br />doña Julia said I could.</p>
+      <p begin="01:07:23.799" end="01:07:25.099">That s weird.</p>
+      <p begin="01:07:25.632" end="01:07:29.132">Didn t he leave a note or anything?</p>
+      <p begin="01:07:29.132" end="01:07:32.766">I haven t seen anything, but I can check.</p>
+      <p begin="01:07:32.766" end="01:07:34.266">That s strange.</p>
+      <p begin="01:08:03.932" end="01:08:08.932">Excuse me, miss, I wanted<br />to check if an older man,</p>
+      <p begin="01:08:09.032" end="01:08:11.132">a Mr. Aravena, was checked in.</p>
+      <p begin="01:08:11.132" end="01:08:14.065">He was here a few days ago, with a UTI.</p>
+      <p begin="01:08:14.065" end="01:08:16.565">One moment, let me check.</p>
+      <p begin="01:08:18.599" end="01:08:20.299">You said Aravena?</p>
+      <p begin="01:08:20.299" end="01:08:23.299">Yes, Andrés Aravena Fernández.</p>
+      <p begin="01:08:23.299" end="01:08:27.065">What relation are you to the gentleman?</p>
+      <p begin="01:08:27.065" end="01:08:28.765">I m his daughter.</p>
+      <p begin="01:08:31.265" end="01:08:36.065">Mr. Aravena came in for<br />an oncology appointment,</p>
+      <p begin="01:08:36.065" end="01:08:37.766">but that was a few days ago now.</p>
+      <p begin="01:08:37.766" end="01:08:38.699">Oncology?</p>
+      <p begin="01:08:39.699" end="01:08:40.366">Yes</p>
+      <p begin="01:09:31.632" end="01:09:36.632">Hello, good afternoon, I m<br />trying to reach dean Gomez.</p>
+      <p begin="01:09:42.099" end="01:09:44.199">I m sorry. Thank you.</p>
+      <p begin="01:09:56.165" end="01:09:56.799">Hello?</p>
+      <p begin="01:09:58.833" end="01:10:01.833">Hello, don César, how are you?</p>
+      <p begin="01:10:03.666" end="01:10:04.466">Really?</p>
+      <p begin="01:10:07.799" end="01:10:09.499">That s good news.</p>
+      <p begin="01:10:17.833" end="01:10:20.233">Of course, I understand.</p>
+      <p begin="01:10:23.799" end="01:10:28.799">Yes, I just need a few days<br />to take care of some things.</p>
+      <p begin="01:10:35.766" end="01:10:37.766">No, just a few days.</p>
+      <p begin="01:10:38.799" end="01:10:39.466">A week</p>
+      <p begin="01:10:42.799" end="01:10:43.466">OK.</p>
+      <p begin="01:10:44.833" end="01:10:46.366">No, thank you.</p>
+      <p begin="01:10:49.699" end="01:10:50.699">Thank you.</p>
+      <p begin="01:11:39.833" end="01:11:41.433">What do we know?</p>
+      <p begin="01:11:41.433" end="01:11:45.966">There s no one with that name,<br />there are three unidentified bodies</p>
+      <p begin="01:11:45.966" end="01:11:48.532">and one came in yesterday,</p>
+      <p begin="01:11:48.532" end="01:11:51.332">but it doesn t seem like it.</p>
+      <p begin="01:11:51.933" end="01:11:54.833">It ll be better to make sure.</p>
+      <p begin="01:11:54.833" end="01:11:59.499">Yeah, we ll just ask and<br />it ll make us feel better.</p>
+      <p begin="01:11:59.499" end="01:12:03.232">He s only been gone like a<br />week, he s drinking somewhere</p>
+      <p begin="01:12:03.232" end="01:12:04.532">or something.</p>
+      <p begin="01:12:07.232" end="01:12:09.732">Dad is not doing so well.</p>
+      <p begin="01:12:10.733" end="01:12:15.233">The doctor said he should<br />be in chemotherapy.</p>
+      <p begin="01:12:20.499" end="01:12:23.599">This is the one who is over 70.</p>
+      <p begin="01:12:28.032" end="01:12:29.432">Are you ready?</p>
+      <p begin="01:12:35.766" end="01:12:36.766">Thank you.</p>
+      <p begin="01:12:52.866" end="01:12:55.566">You have keys to the house?</p>
+      <p begin="01:12:55.566" end="01:12:56.299">Yes.</p>
+      <p begin="01:12:57.833" end="01:12:58.933">Is it open?</p>
+      <p begin="01:13:00.065" end="01:13:02.065">What s with the cop?</p>
+      <p begin="01:13:02.065" end="01:13:02.733">Weird.</p>
+      <p begin="01:13:20.399" end="01:13:22.799">Your love is escaping me</p>
+      <p begin="01:13:26.199" end="01:13:30.499">Like water through my fingers</p>
+      <p begin="01:13:33.799" end="01:13:36.065">And I can t avoid it</p>
+      <p begin="01:13:38.699" end="01:13:43.666">Though I'm dying of sadness</p>
+      <p begin="01:13:46.933" end="01:13:50.099">I was the owner of your heart</p>
+      <p begin="01:13:53.399" end="01:13:57.566">This pain is my fault</p>
+      <p begin="01:14:07.399" end="01:14:09.899">Don t take your love away</p>
+      <p begin="01:14:10.799" end="01:14:13.466">I can see my mistake</p>
+      <p begin="01:16:04.132" end="01:16:06.432">Hi, girls, how are you?</p>
+      <p begin="01:16:07.933" end="01:16:08.566">Good?</p>
+      <p begin="01:16:08.599" end="01:16:11.499">It s so nice to see you here!</p>
+      <p begin="01:16:11.499" end="01:16:13.766">To what do we owe the honor?</p>
+      <p begin="01:16:13.766" end="01:16:17.933">I came to leave them here<br />because something came up and</p>
+      <p begin="01:16:17.933" end="01:16:20.532">I need you guys to watch them.</p>
+      <p begin="01:16:20.532" end="01:16:23.032">But, did you talk to Daniel?</p>
+      <p begin="01:16:23.032" end="01:16:25.466">We re about to leave for the beach.</p>
+      <p begin="01:16:25.466" end="01:16:26.766">Girls, do you want to go to the beach?</p>
+      <p begin="01:16:26.766" end="01:16:27.599">Yes!</p>
+      <p begin="01:16:27.765" end="01:16:30.065">Can we bring Chocolito?</p>
+      <p begin="01:16:30.065" end="01:16:31.065">Of course.</p>
+      <p begin="01:16:33.499" end="01:16:36.099">We d better call your Dad.</p>
+      <p begin="01:16:36.099" end="01:16:39.332">Don t worry. I ll call him later.</p>
+      <p begin="01:16:39.332" end="01:16:41.432">We d better call him.</p>
+      <p begin="01:16:41.499" end="01:16:42.499">Thank you!</p>
+      <p begin="01:16:42.699" end="01:16:45.199">Girls, hugs for your mom.</p>
+      <p begin="01:16:45.199" end="01:16:46.299">Bye, Mommy.</p>
+      <p begin="01:16:46.532" end="01:16:49.132">We would like to offer you</p>
+      <p begin="01:16:49.132" end="01:16:53.432">a warm welcome aboard to our<br />flight 610 to Mexico City.</p>
+      <p begin="01:16:53.432" end="01:16:58.132">Capitan Serrá assisted<br />by first officer Alvarez</p>
+      <p begin="01:17:02.632" end="01:17:06.532">Attachment</p>
+    </div>
+  </body>
+</tt>
