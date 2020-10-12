@@ -18,3 +18,5 @@ jspm_packages
 .DS_Store
 
 .nvmrc
+tmp/
+lib/parsers/playground.js

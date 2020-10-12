@@ -1,6 +1,6 @@
 {
   "name": "subtitle-converter",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "description": "Convert subtitles from one format to another",
   "main": "index.js",
   "scripts": {
