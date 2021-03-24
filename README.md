@@ -4,7 +4,7 @@ Convert and modify subtitle files with NodeJS.
 
 There are many subtitle tools written in node, but there are none that support all popular subtitle and caption formats. `subtitle-converter` builds off of the work of others (most notably `node-captions`, `node-webvtt`, and `subtitles-parser`) in order to ultimately become the only subtitle module necessary to include in your node project.
 
-Currently supported input file types: `dfxp, scc, srt, ttml, vtt`
+Currently supported input file types: `dfxp, scc, srt, ttml, vtt, ssa, ass`
 
 Currently supported output file types: `srt, vtt`
 
@@ -88,6 +88,8 @@ Hello
 00:00:18,000 --> 00:00:19,252
 World
 ```
+
+**combineOverlapping** (boolean) - Default is `false`. If set to `true`, timecodes that are overlapping will be combined into one entry with a newline separating the text.
 
 ## Validate
 
