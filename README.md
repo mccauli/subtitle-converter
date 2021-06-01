@@ -145,8 +145,3 @@ console.log(status.succes);
 **invalidTimecodes** (Always detected) [`.srt`] - checking if there are any timecodes that are not in a valid format.
 
 **invalidIndices** (Always detected) [`.srt`] - checking if there are any non-digit indices before timecodes.
-
-
-## Contributing
-
-TODO
