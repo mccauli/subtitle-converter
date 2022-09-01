@@ -1,6 +1,6 @@
 {
   "name": "subtitle-converter",
-  "version": "3.0.11",
+  "version": "3.0.12",
   "description": "Convert subtitles from one format to another",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   "dependencies": {
     "chai": "^4.2.0",
     "joi-browser": "13.4.0",
-    "mocha": "^6.2.1",
     "node-webvtt": "1.5.0",
     "ramda": "^0.25.0",
     "subtitles-parser": "0.0.2",
@@ -35,6 +34,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
+    "mocha": "^6.2.1",
     "precommit-hook-adrise": "^4.2.1"
   },
   "pre-commit": [
